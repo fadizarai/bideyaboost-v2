@@ -1,0 +1,605 @@
+generator client {
+  provider        = "prisma-client-js"
+  engineType      = "library"
+  binaryTargets   = ["native", "debian-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+//////////////////////////////////////////////////////
+// CORE USER
+//////////////////////////////////////////////////////
+
+model User {
+  id              String   @id @default(uuid())
+  email           String   @unique
+  passwordHash    String
+  name            String
+  isEmailVerified Boolean  @default(false)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  deletedAt DateTime?
+
+  // Role Profiles (1-1)
+  student Student?
+  expert  Expert?
+  admin   Admin?
+  parent  Parent?
+
+  // Relations
+  clubs           Club[]
+  eventsCreated       Event[]
+  videoMeetings       VideoMeeting[]
+  videoParticipants   VideoMeetingParticipant[]
+  conversationLinks   ConversationParticipant[]
+  messagesSent        Message[]
+  notifications       Notification[]
+  mediaUploads        Media[]
+  activities          UserActivity[]
+  formResponses       FormResponse[]
+  navVisibilityConfigs NavVisibilityConfig[]
+  testResults         TestResult[]
+  chatbotHistories    ChatbotHistory[]
+
+  @@index([deletedAt])
+}
+
+//////////////////////////////////////////////////////
+// ROLE ENTITIES
+//////////////////////////////////////////////////////
+
+model Student {
+  id               String @id @default(uuid())
+  userId           String @unique
+  totalStudyHours  Int    @default(0)
+  totalQuizzes     Int    @default(0)
+  totalEvents      Int    @default(0)
+  
+  // Orientation Fields
+  bacType          String?
+  bacAverage       Float?
+    subjectsScores   Json?    // e.g. { math: 15, physics: 16, science: 14, algo: 18, economie: 12, ... }
+    psychotechScore  Float?
+    interests        String[] @default([])
+
+    createdAt        DateTime @default(now())
+
+    user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  eventRegistrations EventRegistration[]
+  meetings           Meeting[] @relation("StudentMeetings")
+  chatbotHistories   ChatbotHistory[]
+  testResults        TestResult[]
+  progress           StudentProgress?
+  formResponses      FormResponse[]
+  recommendations    Recommendation[]
+  feedbacks          Feedback[]
+}
+
+model Expert {
+  id         String @id @default(uuid())
+  userId     String @unique
+  company    String?
+  position   String?
+  experience Int?
+  education  String?
+  skills     String[] @default([])
+  languages  String[] @default([])
+  website    String?
+  socialLinks Json?   // { linkedin, twitter, etc. }
+  multilingualFullName Json? // { en, fr, ar }
+  multilingualLocation Json? // { en, fr, ar }
+  multilingualBio      Json? // { en, fr, ar }
+  availability       Json? // { workingDays, workingHours, slotDuration, customDates }
+  createdAt  DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  meetings Meeting[] @relation("ExpertMeetings")
+}
+
+model Admin {
+  id          String @id @default(uuid())
+  userId      String @unique
+  department  String?
+  accessLevel String?
+  createdAt   DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  notes AdminNote[]
+}
+
+model Parent {
+  id        String @id @default(uuid())
+  userId    String @unique
+  phone     String?
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+//////////////////////////////////////////////////////
+// CLUBS & EVENTS
+//////////////////////////////////////////////////////
+
+model Club {
+  id          String @id @default(uuid())
+  userId      String
+  clubName    String
+  description String?
+  university  String?
+  photo       String?
+  president   String?
+  email       String?
+  phone       String?
+  socialMedia Json?    // { facebook, instagram, etc. }
+  createdAt   DateTime @default(now())
+
+  creator User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  events  Event[]
+
+  @@index([userId])
+}
+
+model Event {
+  id          String   @id @default(uuid())
+  creatorId   String
+  clubId      String?
+  multilingualTitle       Json? // { en, fr, ar }
+  multilingualDescription Json? // { en, fr, ar }
+  multilingualLocation    Json? // { en, fr, ar }
+  type        String   // workshop, etc.
+  date        DateTime
+  time        String?
+  speaker     String?
+  company     String?
+  category    String?
+  capacity    Int?
+  duration    String?
+  level       String?
+  tags        String[] @default([])
+  image       String?
+  maxRegistrations Int?
+  deadline    DateTime?
+  registrationToggle Boolean @default(true)
+  status      String   // UPCOMING, ONGOING, COMPLETED, CANCELLED
+
+  creator User  @relation(fields: [creatorId], references: [id], onDelete: Cascade)
+  club    Club? @relation(fields: [clubId], references: [id], onDelete: SetNull)
+
+  registrations EventRegistration[]
+
+  @@index([creatorId])
+  @@index([clubId])
+  @@index([date])
+}
+
+model EventRegistration {
+  id        String @id @default(uuid())
+  eventId   String
+  studentId String
+  registeredAt DateTime @default(now())
+  status       String   @default("REGISTERED") // REGISTERED, ATTENDED, CANCELLED
+
+  event   Event   @relation(fields: [eventId], references: [id], onDelete: Cascade)
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([eventId, studentId])
+  @@index([studentId])
+}
+
+//////////////////////////////////////////////////////
+// MEETINGS
+//////////////////////////////////////////////////////
+
+model Meeting {
+  id        String   @id @default(uuid())
+  studentId String
+  expertId  String
+  date      DateTime
+  time      String?
+  status    String   // PENDING, CONFIRMED, REJECTED, COMPLETED, CANCELLED
+  notes     String?
+
+  student Student @relation("StudentMeetings", fields: [studentId], references: [id], onDelete: Cascade)
+  expert  Expert  @relation("ExpertMeetings", fields: [expertId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([expertId])
+  @@index([date])
+  @@index([status])
+}
+
+//////////////////////////////////////////////////////
+// VIDEO MEETINGS
+//////////////////////////////////////////////////////
+
+model VideoMeeting {
+  id          String   @id @default(uuid())
+  creatorId   String
+  title       String
+  description String?
+  scheduledAt DateTime
+  roomUrl     String?
+  status      String   @default("PLANNED") // PLANNED, ACTIVE, ENDED
+
+  creator      User @relation(fields: [creatorId], references: [id], onDelete: Cascade)
+  participants VideoMeetingParticipant[]
+
+  @@index([creatorId])
+  @@index([scheduledAt])
+}
+
+model VideoMeetingParticipant {
+  id             String @id @default(uuid())
+  videoMeetingId String
+  userId         String
+  joinedAt       DateTime @default(now())
+
+  videoMeeting VideoMeeting @relation(fields: [videoMeetingId], references: [id], onDelete: Cascade)
+  user         User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([videoMeetingId, userId])
+}
+
+//////////////////////////////////////////////////////
+// MESSAGING
+//////////////////////////////////////////////////////
+
+model Conversation {
+  id           String   @id @default(uuid())
+  type         String   // PRIVATE, GROUP, ADMIN, EDUCATIONAL
+  name         String?
+  description  String?
+  avatar       String?
+  activityStatus String @default("ACTIVE")
+  lastMessage  String?
+  lastActivity DateTime @default(now())
+  settings     Json?   // Notification settings, etc.
+  educationalCriteria Json? // Rules for educational chats
+  creatorId    String?
+  createdAt    DateTime @default(now())
+
+  participants ConversationParticipant[]
+  messages     Message[]
+
+  @@index([type])
+  @@index([lastActivity])
+}
+
+model ConversationParticipant {
+  id             String @id @default(uuid())
+  conversationId String
+  userId         String
+  role           String @default("MEMBER") // OWNER, ADMIN, MEMBER
+  joinTime       DateTime @default(now())
+  lastSeenTime   DateTime @default(now())
+
+  conversation Conversation @relation(fields: [conversationId], references: [id], onDelete: Cascade)
+  user         User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([conversationId, userId])
+  @@index([userId])
+}
+
+model Message {
+  id             String   @id @default(uuid())
+  conversationId String
+  senderId       String
+  content        String?
+  type           String   // TEXT, IMAGE, FILE, VOICE
+  attachments    Json?    // [{ url, type, name }]
+  replyToId      String?
+  readStatus     Json?    // [{ userId, readAt }]
+  editInfo       Json?    // { editedAt, previousContent }
+  deleteInfo     Json?    // { deletedAt, deletedBy }
+  isDeleted      Boolean  @default(false)
+  createdAt      DateTime @default(now())
+
+  conversation Conversation @relation(fields: [conversationId], references: [id], onDelete: Cascade)
+  sender       User         @relation(fields: [senderId], references: [id], onDelete: Cascade)
+  replyTo      Message?     @relation("MessageReplies", fields: [replyToId], references: [id])
+  replies      Message[]    @relation("MessageReplies")
+
+  @@index([conversationId])
+  @@index([senderId])
+  @@index([createdAt])
+}
+
+//////////////////////////////////////////////////////
+// ADMIN NOTES
+//////////////////////////////////////////////////////
+
+model AdminNote {
+  id             String   @id @default(uuid())
+  adminId        String
+  title          String
+  content        String?
+  date           DateTime
+  time           String?
+  type           String   // NOTE, REMINDER, MEETING, EVENT
+  priority       String   // LOW, MEDIUM, HIGH, URGENT
+  visibility     String   // PRIVATE, ADMINS, ALL
+  tags           String[] @default([])
+  relatedEntity  Json?    // { type, id }
+  status         String   @default("OPEN")
+  color          String?
+  createdAt      DateTime @default(now())
+
+  admin Admin @relation(fields: [adminId], references: [id], onDelete: Cascade)
+
+  @@index([adminId])
+  @@index([date])
+  @@index([type])
+}
+
+//////////////////////////////////////////////////////
+// CHATBOT
+//////////////////////////////////////////////////////
+
+model ChatbotHistory {
+  id        String   @id @default(uuid())
+  studentId String?
+  userId    String?
+  createdAt DateTime @default(now())
+
+  student  Student?         @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  user     User?            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  messages ChatbotMessage[]
+
+  @@index([studentId])
+  @@index([userId])
+}
+
+model ChatbotMessage {
+  id               String   @id @default(uuid())
+  chatbotHistoryId String
+  sender           String   // USER, BOT
+  text             String
+  timestamp        DateTime @default(now())
+
+  history ChatbotHistory @relation(fields: [chatbotHistoryId], references: [id], onDelete: Cascade)
+
+  @@index([chatbotHistoryId])
+}
+
+//////////////////////////////////////////////////////
+// TEST & PROGRESS
+//////////////////////////////////////////////////////
+
+model TestResult {
+  id          String   @id @default(uuid())
+  studentId   String?
+  userId      String?
+  testType    String
+  testName    String
+  answers     Json?
+  results     Json?
+  score       Float?
+  status      String   // COMPLETED, IN_PROGRESS, FAILED
+  completedAt DateTime?
+  metadata    Json?    // Browser, IP, device
+  createdAt   DateTime @default(now())
+
+  student Student? @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  user    User?    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([studentId])
+  @@index([userId])
+  @@index([testType])
+  @@index([createdAt])
+}
+
+model StudentProgress {
+  id              String   @id @default(uuid())
+  studentId       String   @unique
+  goals           Json?    // [{ type, target, current, deadline }]
+  achievements    Json?    // [{ name, date, icon }]
+  studySessions   Json?    // [{ startTime, duration, subject }]
+  dailyActivity   Json?    // { scores, quizzes, events, timeSpent }
+  updatedAt       DateTime @updatedAt
+
+  student Student @relation(fields: [studentId], references: [id], onDelete: Cascade)
+}
+
+//////////////////////////////////////////////////////
+// NOTIFICATIONS
+//////////////////////////////////////////////////////
+
+model Notification {
+  id             String   @id @default(uuid())
+  userId         String
+  type           String   // EVENT, PACK, ASSIGNMENT, MESSAGE, SYSTEM
+  title          String
+  message        String
+  relatedEntity  Json?    // { type, id }
+  actionUrl      String?
+  isRead         Boolean  @default(false)
+  createdAt      DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, isRead])
+}
+
+//////////////////////////////////////////////////////
+// MEDIA
+//////////////////////////////////////////////////////
+
+model Media {
+  id                 String   @id @default(uuid())
+  creatorId          String
+  title              String
+  description        String?
+  type               String   // IMAGE, VIDEO, PODCAST, REEL
+  category           String?
+  url                String
+  cloudinaryPublicId String?
+  format             String?
+  size               Int?
+  duration           Int?
+  isPodcast          Boolean  @default(false)
+  isReel             Boolean  @default(false)
+  createdAt          DateTime @default(now())
+
+  creator User @relation(fields: [creatorId], references: [id], onDelete: Cascade)
+
+  @@index([creatorId])
+  @@index([type])
+  @@index([createdAt])
+}
+
+//////////////////////////////////////////////////////
+// PACKS
+//////////////////////////////////////////////////////
+
+model Pack {
+  id           String   @id @default(uuid())
+  name         String
+  description  String?
+  type         String   // FREE, PAID, PREMIUM
+  price        Float?
+  durationDays Int?
+  creatorId    String?
+  createdAt    DateTime @default(now())
+}
+
+//////////////////////////////////////////////////////
+// FORMS
+//////////////////////////////////////////////////////
+
+model Form {
+  id        String   @id @default(uuid())
+  creatorId String
+  title     String
+  fields    Json
+  createdAt DateTime @default(now())
+
+  responses FormResponse[]
+}
+
+model FormResponse {
+  id           String   @id @default(uuid())
+  userId       String?
+  studentId    String?
+  formId       String
+  responseData Json
+  status       String   @default("SUBMITTED")
+  metadata     Json?    // { browser, device, ip }
+  submittedAt  DateTime @default(now())
+
+  user    User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  student Student? @relation(fields: [studentId], references: [id], onDelete: SetNull)
+  form    Form     @relation(fields: [formId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([studentId])
+  @@index([formId])
+}
+
+model Contact {
+  id        String   @id @default(uuid())
+  firstName String
+  lastName  String
+  email     String
+  phone     String?
+  subject   String
+  message   String
+  createdAt DateTime @default(now())
+}
+
+//////////////////////////////////////////////////////
+// ACTIVITY
+//////////////////////////////////////////////////////
+
+model UserActivity {
+  id              String   @id @default(uuid())
+  userId          String
+  activityType    String   // LOGIN, LOGOUT, PAGE_VIEW, DOWNLOAD, FORM_SUBMIT
+  action          String
+  sessionDuration Int?     // in seconds
+  ipAddress       String?
+  userAgent       String?
+  metadata        Json?
+  createdAt       DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([createdAt])
+  @@index([activityType])
+}
+
+//////////////////////////////////////////////////////
+// NAV VISIBILITY
+//////////////////////////////////////////////////////
+
+model NavVisibilityConfig {
+  id        String   @id @default(uuid())
+  navItem   String   @unique
+  ruleType  String   // ROLE, USER, GLOBAL
+  userId    String?
+  createdAt DateTime @default(now())
+
+  user User? @relation(fields: [userId], references: [id], onDelete: SetNull)
+}
+
+//////////////////////////////////////////////////////
+// BIDEYA ORIENTATION
+//////////////////////////////////////////////////////
+
+model Program {
+  id              String           @id @default(uuid())
+  university      String
+  faculty         String?
+  specialty       String
+  domain          String?
+  minBacAverage   Float?
+  requiredBacTypes String[]        @default([])
+  durationYears   Int?
+  description     String?
+  city            String?
+  createdAt       DateTime         @default(now())
+  updatedAt       DateTime         @updatedAt
+
+  recommendations Recommendation[]
+}
+
+model Recommendation {
+  id          String   @id @default(uuid())
+  studentId   String
+  programId   String
+  rank        Int
+  score       Float
+  explanation String?
+  createdAt   DateTime @default(now())
+
+  student     Student  @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  program     Program  @relation(fields: [programId], references: [id], onDelete: Cascade)
+  feedbacks   Feedback[]
+}
+
+model Feedback {
+  id               String   @id @default(uuid())
+  recommendationId String
+  studentId        String
+  rating           Int
+  comment          String?
+  processedByAi    Boolean  @default(false)
+  createdAt        DateTime @default(now())
+
+  recommendation   Recommendation @relation(fields: [recommendationId], references: [id], onDelete: Cascade)
+  student          Student        @relation(fields: [studentId], references: [id], onDelete: Cascade)
+}
+
+model AiLog {
+  id          String   @id @default(uuid())
+  modelVersion String
+  event       String
+  details     Json?
+  createdAt   DateTime @default(now())
+}

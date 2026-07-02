@@ -1,0 +1,3688 @@
+[
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_001",
+    "slug": "admission-faculte-des-sciences-humaines-et-sociales-de-tunis-2025-2026",
+    "institution_id": "inst_001",
+    "institution_name": "Faculté des Sciences Humaines et Sociales de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 110.82,
+    "score_minimum": 99.15,
+    "capacity": 135,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_002",
+    "slug": "admission-ecole-superieure-des-sciences-economiques-et-commerciales-de-tunis-2025-2026",
+    "institution_id": "inst_002",
+    "institution_name": "Ecole Supérieure des Sciences Economiques et Commerciales de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 138.1,
+    "score_minimum": 130.2,
+    "capacity": 281,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_003",
+    "slug": "admission-ecole-normale-superieure-2025-2026",
+    "institution_id": "inst_003",
+    "institution_name": "Ecole Normale Supérieure",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 118.38,
+    "score_minimum": 113.12,
+    "capacity": 314,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_004",
+    "slug": "admission-ecole-superieure-des-sciences-et-techniques-de-tunis-2025-2026",
+    "institution_id": "inst_004",
+    "institution_name": "Ecole Supérieure des Sciences et Techniques de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 149.06,
+    "score_minimum": 142.79,
+    "capacity": 114,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_005",
+    "slug": "admission-institut-preparatoire-aux-etudes-d-ingenieurs-de-tunis-2025-2026",
+    "institution_id": "inst_005",
+    "institution_name": "Institut Préparatoire aux Etudes d'Ingénieurs de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 155.02,
+    "score_minimum": 141.99,
+    "capacity": 247,
+    "degree": "Cycle Préparatoire",
+    "field": "Sciences de l'Ingénieur",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_006",
+    "slug": "admission-institut-preparatoire-aux-etudes-litteraires-et-de-sciences-humaines-de-tunis-2025-2026",
+    "institution_id": "inst_006",
+    "institution_name": "Institut Préparatoire aux Etudes Littéraires et de Sciences Humaines de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 135.48,
+    "score_minimum": 123.84,
+    "capacity": 101,
+    "degree": "Cycle Préparatoire",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_007",
+    "slug": "admission-institut-superieur-de-gestion-de-tunis-2025-2026",
+    "institution_id": "inst_007",
+    "institution_name": "Institut Supérieur de Gestion de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 168.37,
+    "score_minimum": 157.56,
+    "capacity": 120,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_008",
+    "slug": "admission-institut-superieur-des-beaux-arts-de-tunis-2025-2026",
+    "institution_id": "inst_008",
+    "institution_name": "Institut Supérieur des Beaux Arts de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 117.27,
+    "score_minimum": 111.41,
+    "capacity": 138,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_009",
+    "slug": "admission-institut-superieur-de-musique-2025-2026",
+    "institution_id": "inst_009",
+    "institution_name": "Institut Supérieur de Musique",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 154.61,
+    "score_minimum": 142.55,
+    "capacity": 290,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_010",
+    "slug": "admission-institut-superieur-d-art-dramatique-2025-2026",
+    "institution_id": "inst_010",
+    "institution_name": "Institut Supérieur d'Art Dramatique",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 107.39,
+    "score_minimum": 97.9,
+    "capacity": 101,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_011",
+    "slug": "admission-institut-superieur-des-sciences-culturelles-et-metiers-du-patrimoine-de-tunis-2025-2026",
+    "institution_id": "inst_011",
+    "institution_name": "Institut Supérieur des Sciences Culturelles et Métiers du Patrimoine de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 109.91,
+    "score_minimum": 103.75,
+    "capacity": 220,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_012",
+    "slug": "admission-institut-superieur-des-etudes-appliquees-en-humanite-de-tunis-2025-2026",
+    "institution_id": "inst_012",
+    "institution_name": "Institut Supérieur des Etudes Appliquées en Humanité de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 112.57,
+    "score_minimum": 103.88,
+    "capacity": 116,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_013",
+    "slug": "admission-institut-superieur-de-l-animation-pour-la-jeunesse-et-la-culture-2025-2026",
+    "institution_id": "inst_013",
+    "institution_name": "Institut Supérieur de l'Animation pour la Jeunesse et la Culture",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 138.25,
+    "score_minimum": 132.54,
+    "capacity": 342,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_014",
+    "slug": "admission-institut-superieur-des-tudes-appliquees-en-humanites-de-zaghouan-2025-2026",
+    "institution_id": "inst_014",
+    "institution_name": "Institut Supérieur des ةtudes Appliquées en Humanités de Zaghouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 166.59,
+    "score_minimum": 158.58,
+    "capacity": 299,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_015",
+    "slug": "admission-institut-national-du-patrimoine-2025-2026",
+    "institution_id": "inst_015",
+    "institution_name": "Institut National du Patrimoine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 162.51,
+    "score_minimum": 149.68,
+    "capacity": 80,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_016",
+    "slug": "admission-tunis-business-school-2025-2026",
+    "institution_id": "inst_016",
+    "institution_name": "Tunis Business School",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 116.93,
+    "score_minimum": 102.52,
+    "capacity": 104,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_017",
+    "slug": "admission-faculte-de-droit-et-des-sciences-politiques-de-tunis-2025-2026",
+    "institution_id": "inst_017",
+    "institution_name": "Faculté de Droit et des Sciences Politiques de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 141.02,
+    "score_minimum": 134.55,
+    "capacity": 117,
+    "degree": "Licence Fondamentale",
+    "field": "Droit et Sciences Politiques",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_018",
+    "slug": "admission-faculte-des-sciences-economique-et-de-gestion-de-tunis-2025-2026",
+    "institution_id": "inst_018",
+    "institution_name": "Faculté des Sciences Economique et de Gestion de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 167.62,
+    "score_minimum": 155.58,
+    "capacity": 64,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_019",
+    "slug": "admission-faculte-des-sciences-de-tunis-2025-2026",
+    "institution_id": "inst_019",
+    "institution_name": "Faculté des sciences de tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 167.27,
+    "score_minimum": 154.75,
+    "capacity": 261,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_020",
+    "slug": "admission-faculte-de-medecine-de-tunis-2025-2026",
+    "institution_id": "inst_020",
+    "institution_name": "Faculté de Médecine de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 112.71,
+    "score_minimum": 99.62,
+    "capacity": 164,
+    "degree": "Doctorat en Médecine",
+    "field": "Sciences de la Santé",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_021",
+    "slug": "admission-institut-bourguiba-des-langues-vivantes-2025-2026",
+    "institution_id": "inst_021",
+    "institution_name": "Institut Bourguiba des Langues Vivantes",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 169.12,
+    "score_minimum": 155.62,
+    "capacity": 110,
+    "degree": "Licence Fondamentale",
+    "field": "Langues",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_022",
+    "slug": "admission-institut-preparatoire-aux-etudes-d-ingenieurs-d-el-manar-2025-2026",
+    "institution_id": "inst_022",
+    "institution_name": "Institut Préparatoire aux Etudes d'Ingénieurs d'El Manar",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 126.87,
+    "score_minimum": 120.64,
+    "capacity": 259,
+    "degree": "Cycle Préparatoire",
+    "field": "Sciences de l'Ingénieur",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_023",
+    "slug": "admission-institut-superieur-des-sciences-biologiques-appliquees-2025-2026",
+    "institution_id": "inst_023",
+    "institution_name": "Institut Supérieur des Sciences Biologiques Appliquées",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 173.45,
+    "score_minimum": 166.63,
+    "capacity": 242,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_024",
+    "slug": "admission-institut-superieur-d-informatique-d-el-manar-2025-2026",
+    "institution_id": "inst_024",
+    "institution_name": "Institut Supérieur d'Informatique d'El Manar",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 126.1,
+    "score_minimum": 117.89,
+    "capacity": 157,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_025",
+    "slug": "admission-institut-superieur-des-sciences-humaines-de-tunis-2025-2026",
+    "institution_id": "inst_025",
+    "institution_name": "Institut Supérieur des Sciences Humaines de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 155.95,
+    "score_minimum": 148.2,
+    "capacity": 308,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_026",
+    "slug": "admission-institut-superieur-des-technologies-medicales-2025-2026",
+    "institution_id": "inst_026",
+    "institution_name": "Institut Supérieur des Technologies Médicales",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 165.32,
+    "score_minimum": 150.36,
+    "capacity": 273,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_027",
+    "slug": "admission-ecole-superieure-des-sciences-et-techniques-de-la-sante-de-tunis-2025-2026",
+    "institution_id": "inst_027",
+    "institution_name": "Ecole Supérieure des Sciences et Techniques de la Santé de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 127.08,
+    "score_minimum": 121.43,
+    "capacity": 96,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_028",
+    "slug": "admission-institut-superieur-des-sciences-infirmieres-de-tunis-2025-2026",
+    "institution_id": "inst_028",
+    "institution_name": "Institut Supérieur des Sciences infirmières de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 164.07,
+    "score_minimum": 156.12,
+    "capacity": 50,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_029",
+    "slug": "admission-institut-pasteur-2025-2026",
+    "institution_id": "inst_029",
+    "institution_name": "Institut Pasteur",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 160.51,
+    "score_minimum": 152.19,
+    "capacity": 208,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_030",
+    "slug": "admission-institut-de-recherche-veterinaire-de-tunis-2025-2026",
+    "institution_id": "inst_030",
+    "institution_name": "Institut de Recherche Vétérinaire de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 156.19,
+    "score_minimum": 147.53,
+    "capacity": 140,
+    "degree": "Doctorat en Médecine Vétérinaire",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_031",
+    "slug": "admission-faculte-des-sciences-juridiques-politiques-et-sociales-de-tunis-2025-2026",
+    "institution_id": "inst_031",
+    "institution_name": "Faculté des Sciences Juridiques, Politiques et Sociales de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 147.05,
+    "score_minimum": 140.13,
+    "capacity": 329,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_032",
+    "slug": "admission-faculte-des-sciences-de-bizerte-2025-2026",
+    "institution_id": "inst_032",
+    "institution_name": "Faculté des Sciences de Bizerte",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 145.46,
+    "score_minimum": 136.28,
+    "capacity": 270,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_033",
+    "slug": "admission-faculte-des-sciences-economiques-et-de-gestion-de-nabeul-2025-2026",
+    "institution_id": "inst_033",
+    "institution_name": "Faculté des Sciences Economiques et de Gestion de Nabeul",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 118.43,
+    "score_minimum": 109.18,
+    "capacity": 298,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_034",
+    "slug": "admission-ecole-nationale-d-architecture-et-d-urbanisme-de-tunis-2025-2026",
+    "institution_id": "inst_034",
+    "institution_name": "Ecole Nationale d'Architecture et d'Urbanisme de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 131.0,
+    "score_minimum": 117.57,
+    "capacity": 177,
+    "degree": "Diplôme National d'Architecte",
+    "field": "Architecture et Urbanisme",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_035",
+    "slug": "admission-ecole-superieure-de-technologie-et-d-informatique-a-carthage-2025-2026",
+    "institution_id": "inst_035",
+    "institution_name": "Ecole Supérieure de Technologie et d'Informatique à Carthage",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 161.63,
+    "score_minimum": 148.14,
+    "capacity": 202,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_036",
+    "slug": "admission-ecole-superieure-des-statistiques-et-d-analyse-de-l-information-2025-2026",
+    "institution_id": "inst_036",
+    "institution_name": "Ecole Supérieure des Statistiques et d'Analyse de l'Information",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 137.14,
+    "score_minimum": 122.53,
+    "capacity": 63,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_037",
+    "slug": "admission-ecole-superieure-de-l-audiovisuel-et-du-cinema-de-gammarth-2025-2026",
+    "institution_id": "inst_037",
+    "institution_name": "Ecole Supérieure de l'Audiovisuel et du Cinéma de Gammarth",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 154.49,
+    "score_minimum": 147.93,
+    "capacity": 349,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_038",
+    "slug": "admission-institut-preparatoire-aux-etudes-d-ingenieur-de-bizerte-2025-2026",
+    "institution_id": "inst_038",
+    "institution_name": "Institut Préparatoire aux Etudes d'Ingénieur de Bizerte",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 126.87,
+    "score_minimum": 120.64,
+    "capacity": 259,
+    "degree": "Cycle Préparatoire",
+    "field": "Sciences de l'Ingénieur",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_039",
+    "slug": "admission-institut-des-hautes-etudes-commerciales-de-carthage-2025-2026",
+    "institution_id": "inst_039",
+    "institution_name": "Institut des Hautes Etudes Commerciales de Carthage",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 147.51,
+    "score_minimum": 139.49,
+    "capacity": 216,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_040",
+    "slug": "admission-institut-national-des-sciences-appliquees-et-de-technologie-2025-2026",
+    "institution_id": "inst_040",
+    "institution_name": "Institut National des Sciences Appliquées et de Technologie",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 147.26,
+    "score_minimum": 135.85,
+    "capacity": 189,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_041",
+    "slug": "admission-institut-superieur-des-sciences-appliquees-et-de-la-technologie-de-mateur-2025-2026",
+    "institution_id": "inst_041",
+    "institution_name": "Institut Supérieur des Sciences Appliquées et de la Technologie de Mateur",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 162.52,
+    "score_minimum": 155.91,
+    "capacity": 303,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_042",
+    "slug": "admission-institut-preparatoire-aux-etudes-d-ingenieur-nabeul-2025-2026",
+    "institution_id": "inst_042",
+    "institution_name": "Institut Préparatoire aux Etudes d'Ingénieur Nabeul",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 170.21,
+    "score_minimum": 156.32,
+    "capacity": 265,
+    "degree": "Cycle Préparatoire",
+    "field": "Sciences de l'Ingénieur",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_043",
+    "slug": "admission-institut-preparatoire-aux-etudes-scientifiques-et-techniques-de-la-marsa-2025-2026",
+    "institution_id": "inst_043",
+    "institution_name": "Institut Préparatoire aux Etudes Scientifiques et Techniques de la Marsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 125.37,
+    "score_minimum": 119.9,
+    "capacity": 179,
+    "degree": "Cycle Préparatoire",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_044",
+    "slug": "admission-institut-superieur-des-beaux-arts-de-nabeul-2025-2026",
+    "institution_id": "inst_044",
+    "institution_name": "Institut Supérieur des Beaux Arts de Nabeul",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 158.52,
+    "score_minimum": 150.87,
+    "capacity": 230,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_045",
+    "slug": "admission-institut-superieur-des-technologies-de-l-environnement-de-l-urbanisme-et-du-batiment-2025-2026",
+    "institution_id": "inst_045",
+    "institution_name": "Institut Supérieur des Technologies de l'Environnement, de L'Urbanisme et du Bâtiment",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 148.1,
+    "score_minimum": 141.68,
+    "capacity": 294,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_046",
+    "slug": "admission-institut-superieur-des-langues-de-tunis-2025-2026",
+    "institution_id": "inst_046",
+    "institution_name": "Institut Supérieur des Langues de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 150.93,
+    "score_minimum": 140.52,
+    "capacity": 279,
+    "degree": "Licence Fondamentale",
+    "field": "Langues",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_047",
+    "slug": "admission-institut-superieur-des-langues-appliquees-et-d-informatique-de-nabeul-2025-2026",
+    "institution_id": "inst_047",
+    "institution_name": "Institut Supérieur des Langues Appliquées et d'Informatique de Nabeul",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 113.41,
+    "score_minimum": 104.8,
+    "capacity": 118,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_048",
+    "slug": "admission-institut-superieur-des-sciences-et-technologies-de-l-environnement-de-borj-cedria-2025-2026",
+    "institution_id": "inst_048",
+    "institution_name": "Institut Supérieur des Sciences et Technologies de l'Environnement de Borj Cédria",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 149.39,
+    "score_minimum": 141.92,
+    "capacity": 329,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_049",
+    "slug": "admission-institut-superieur-de-commerce-et-de-comptabilite-de-bizerte-2025-2026",
+    "institution_id": "inst_049",
+    "institution_name": "Institut Supérieur de Commerce et de Comptabilité de Bizerte",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 140.34,
+    "score_minimum": 128.13,
+    "capacity": 224,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_050",
+    "slug": "admission-institut-superieur-des-etudes-preparatoires-en-biologie-et-geologie-a-soukra-2025-2026",
+    "institution_id": "inst_050",
+    "institution_name": "Institut Supérieur des Etudes Préparatoires en Biologie et Géologie à Soukra",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 111.43,
+    "score_minimum": 97.58,
+    "capacity": 95,
+    "degree": "Cycle Préparatoire",
+    "field": "Sciences de la Vie",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_051",
+    "slug": "admission-ecole-superieure-d-agriculture-de-mograne-2025-2026",
+    "institution_id": "inst_051",
+    "institution_name": "Ecole Supérieure d'Agriculture de Mograne",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 113.93,
+    "score_minimum": 102.71,
+    "capacity": 196,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Agronomiques",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_052",
+    "slug": "admission-ecole-superieure-d-agriculture-de-mateur-2025-2026",
+    "institution_id": "inst_052",
+    "institution_name": "Ecole Supérieure d'Agriculture de Mateur",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 172.28,
+    "score_minimum": 166.85,
+    "capacity": 325,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Agronomiques",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_053",
+    "slug": "admission-ecole-superieure-des-industries-alimentaires-de-tunis-2025-2026",
+    "institution_id": "inst_053",
+    "institution_name": "Ecole Supérieure des Industries Alimentaires de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 120.35,
+    "score_minimum": 109.78,
+    "capacity": 319,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_054",
+    "slug": "admission-institut-superieur-de-peche-et-d-aquaculture-de-bizerte-2025-2026",
+    "institution_id": "inst_054",
+    "institution_name": "Institut Supérieur de Pêche et d'Aquaculture de Bizerte",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 152.54,
+    "score_minimum": 138.58,
+    "capacity": 307,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_055",
+    "slug": "admission-institut-national-du-travail-et-des-etudes-sociales-de-tunis-2025-2026",
+    "institution_id": "inst_055",
+    "institution_name": "Institut National du Travail et des Etudes Sociales de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 168.6,
+    "score_minimum": 160.93,
+    "capacity": 240,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_056",
+    "slug": "admission-institut-superieur-des-cadres-de-l-enfance-2025-2026",
+    "institution_id": "inst_056",
+    "institution_name": "Institut Supérieur des Cadres de l'Enfance",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 167.68,
+    "score_minimum": 161.48,
+    "capacity": 193,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_057",
+    "slug": "admission-institut-national-agronomique-de-tunis-2025-2026",
+    "institution_id": "inst_057",
+    "institution_name": "Institut National Agronomique de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 167.63,
+    "score_minimum": 153.27,
+    "capacity": 338,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_058",
+    "slug": "admission-institut-superieur-des-etudes-touristique-de-sidi-dhrif-2025-2026",
+    "institution_id": "inst_058",
+    "institution_name": "Institut Supérieur des Etudes Touristique de Sidi Dhrif",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 174.96,
+    "score_minimum": 162.33,
+    "capacity": 105,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_059",
+    "slug": "admission-institut-national-de-recherche-en-genie-rural-eau-et-foret-2025-2026",
+    "institution_id": "inst_059",
+    "institution_name": "Institut National de Recherche en Génie Rural, Eau et Forêt",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 120.09,
+    "score_minimum": 105.35,
+    "capacity": 101,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_060",
+    "slug": "admission-institut-natioal-de-recherche-agronomique-de-tunis-2025-2026",
+    "institution_id": "inst_060",
+    "institution_name": "Institut Natioal de Recherche Agronomique de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 111.55,
+    "score_minimum": 104.78,
+    "capacity": 122,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_061",
+    "slug": "admission-faculte-des-sciences-juridiques-economiques-et-de-gestion-de-jendouba-2025-2026",
+    "institution_id": "inst_061",
+    "institution_name": "Faculté des Sciences Juridiques, Economiques et de Gestion de Jendouba",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 107.93,
+    "score_minimum": 97.95,
+    "capacity": 72,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_062",
+    "slug": "admission-institut-superieur-des-etudes-appliquees-en-humanites-du-kef-2025-2026",
+    "institution_id": "inst_062",
+    "institution_name": "Institut Supérieur des Etudes Appliquées en Humanités du Kef",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 114.21,
+    "score_minimum": 106.61,
+    "capacity": 264,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_063",
+    "slug": "admission-institut-superieur-des-langues-appliquees-et-d-informatique-de-beja-2025-2026",
+    "institution_id": "inst_063",
+    "institution_name": "Institut Supérieur des Langues Appliquées et d'Informatique de Béja",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 119.43,
+    "score_minimum": 107.07,
+    "capacity": 199,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_064",
+    "slug": "admission-institut-superieur-des-sciences-humaines-de-jendouba-2025-2026",
+    "institution_id": "inst_064",
+    "institution_name": "Institut Supérieur des Sciences Humaines de Jendouba",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 130.63,
+    "score_minimum": 122.15,
+    "capacity": 214,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_065",
+    "slug": "admission-institut-superieur-des-arts-et-metiers-de-siliana-2025-2026",
+    "institution_id": "inst_065",
+    "institution_name": "Institut Supérieur des Arts et Métiers de Siliana",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 170.93,
+    "score_minimum": 160.24,
+    "capacity": 70,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_066",
+    "slug": "admission-institut-superieur-de-musique-et-de-theatre-du-kef-2025-2026",
+    "institution_id": "inst_066",
+    "institution_name": "Institut Supérieur de Musique et de Théâtre du Kef",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 139.64,
+    "score_minimum": 127.66,
+    "capacity": 155,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_067",
+    "slug": "admission-institut-superieur-de-l-education-physique-du-kef-2025-2026",
+    "institution_id": "inst_067",
+    "institution_name": "Institut Supérieur de l 'Education Physique du Kef",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 140.69,
+    "score_minimum": 131.23,
+    "capacity": 134,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Fondamentales",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_068",
+    "slug": "admission-ecole-superieure-d-agriculture-du-kef-2025-2026",
+    "institution_id": "inst_068",
+    "institution_name": "Ecole Supérieure d 'Agriculture du Kef",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 152.5,
+    "score_minimum": 141.43,
+    "capacity": 264,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Agronomiques",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_069",
+    "slug": "admission-institut-sylvo-pastoral-de-tabarka-2025-2026",
+    "institution_id": "inst_069",
+    "institution_name": "Institut Sylvo-Pastoral de Tabarka",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 148.05,
+    "score_minimum": 139.44,
+    "capacity": 152,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_070",
+    "slug": "admission-institut-superieur-de-l-informatique-du-kef-2025-2026",
+    "institution_id": "inst_070",
+    "institution_name": "Institut supérieur de l'informatique du Kef",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 115.74,
+    "score_minimum": 103.29,
+    "capacity": 313,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_071",
+    "slug": "admission-institut-superieur-de-biotechnologie-de-beja-2025-2026",
+    "institution_id": "inst_071",
+    "institution_name": "Institut supérieur de biotechnologie de Béja",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 120.91,
+    "score_minimum": 111.26,
+    "capacity": 108,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_072",
+    "slug": "admission-institut-superieur-des-sciences-infirmieres-du-kef-2025-2026",
+    "institution_id": "inst_072",
+    "institution_name": "Institut Supérieur des Sciences infirmières du Kef",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 121.71,
+    "score_minimum": 110.4,
+    "capacity": 133,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_073",
+    "slug": "admission-faculte-des-sciences-de-gabes-2025-2026",
+    "institution_id": "inst_073",
+    "institution_name": "Faculté des Sciences de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 168.14,
+    "score_minimum": 156.33,
+    "capacity": 176,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_074",
+    "slug": "admission-institut-superieur-d-informatique-et-de-multimedia-de-gabes-2025-2026",
+    "institution_id": "inst_074",
+    "institution_name": "Institut Supérieur d 'Informatique et de Multimédia de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 128.9,
+    "score_minimum": 116.06,
+    "capacity": 77,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_075",
+    "slug": "admission-institut-superieur-des-arts-et-metiers-de-gabes-2025-2026",
+    "institution_id": "inst_075",
+    "institution_name": "Institut Supérieur des Arts et Métiers de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 134.14,
+    "score_minimum": 123.47,
+    "capacity": 55,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_076",
+    "slug": "admission-institut-superieur-de-gestion-de-gabes-2025-2026",
+    "institution_id": "inst_076",
+    "institution_name": "Institut Supérieur de Gestion de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 115.59,
+    "score_minimum": 104.19,
+    "capacity": 148,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_077",
+    "slug": "admission-institut-superieur-des-langues-de-gabes-2025-2026",
+    "institution_id": "inst_077",
+    "institution_name": "Institut Supérieur des Langues de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 128.59,
+    "score_minimum": 114.83,
+    "capacity": 230,
+    "degree": "Licence Fondamentale",
+    "field": "Langues",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_078",
+    "slug": "admission-institut-superieur-des-etudes-juridiques-de-gabes-2025-2026",
+    "institution_id": "inst_078",
+    "institution_name": "Institut Supérieur des Etudes Juridiques de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 130.5,
+    "score_minimum": 125.03,
+    "capacity": 119,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_079",
+    "slug": "admission-institut-superieur-de-biologie-appliquee-de-medenine-2025-2026",
+    "institution_id": "inst_079",
+    "institution_name": "Institut Supérieur de Biologie Appliquée de Medenine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 162.92,
+    "score_minimum": 154.26,
+    "capacity": 209,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences de la Vie",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_080",
+    "slug": "admission-institut-superieur-des-sciences-appliquees-et-de-technologie-de-gabes-2025-2026",
+    "institution_id": "inst_080",
+    "institution_name": "Institut Supérieur des Sciences Appliquées et de Technologie de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 120.18,
+    "score_minimum": 106.39,
+    "capacity": 99,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_081",
+    "slug": "admission-institut-superieur-des-sciences-et-techniques-des-eaux-de-gabes-2025-2026",
+    "institution_id": "inst_081",
+    "institution_name": "Institut Supérieur des Sciences et Techniques des Eaux de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 126.66,
+    "score_minimum": 120.51,
+    "capacity": 220,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_082",
+    "slug": "admission-institut-superieur-des-systemes-industriels-de-gabes-2025-2026",
+    "institution_id": "inst_082",
+    "institution_name": "Institut Supérieur des Systèmes Industriels de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 143.13,
+    "score_minimum": 130.0,
+    "capacity": 170,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_083",
+    "slug": "admission-institut-superieur-des-etudes-appliquees-en-humanites-de-medenine-2025-2026",
+    "institution_id": "inst_083",
+    "institution_name": "Institut Supérieur des Etudes Appliquées en Humanités de Médenine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 110.04,
+    "score_minimum": 98.54,
+    "capacity": 180,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_084",
+    "slug": "admission-institut-superieur-d-informatique-de-medenine-2025-2026",
+    "institution_id": "inst_084",
+    "institution_name": "Institut Supérieur d'Informatique de Medenine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 116.89,
+    "score_minimum": 104.49,
+    "capacity": 192,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_085",
+    "slug": "admission-institut-superieur-des-arts-et-metiers-de-tataouine-2025-2026",
+    "institution_id": "inst_085",
+    "institution_name": "Institut Supérieur des Arts et Métiers de Tataouine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 129.69,
+    "score_minimum": 124.67,
+    "capacity": 277,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_086",
+    "slug": "admission-institut-superieur-des-sciences-infirmieres-de-gabes-2025-2026",
+    "institution_id": "inst_086",
+    "institution_name": "Institut Supérieur des Sciences infirmières de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 108.69,
+    "score_minimum": 94.92,
+    "capacity": 298,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_087",
+    "slug": "admission-faculte-de-droit-et-des-sciences-economiques-et-politiques-de-sousse-2025-2026",
+    "institution_id": "inst_087",
+    "institution_name": "Faculté de Droit et des Sciences Economiques et Politiques de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 134.93,
+    "score_minimum": 127.13,
+    "capacity": 95,
+    "degree": "Licence Fondamentale",
+    "field": "Droit et Sciences Politiques",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_088",
+    "slug": "admission-faculte-de-medecine-de-sousse-2025-2026",
+    "institution_id": "inst_088",
+    "institution_name": "Faculté de Médecine de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 110.59,
+    "score_minimum": 103.01,
+    "capacity": 165,
+    "degree": "Doctorat en Médecine",
+    "field": "Sciences de la Santé",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_089",
+    "slug": "admission-faculte-des-lettres-et-des-sciences-humaines-de-sousse-2025-2026",
+    "institution_id": "inst_089",
+    "institution_name": "Faculté des Lettres et des Sciences Humaines de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 138.25,
+    "score_minimum": 123.76,
+    "capacity": 183,
+    "degree": "Licence Fondamentale",
+    "field": "Lettres et Sciences Humaines",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_090",
+    "slug": "admission-institut-superieur-de-finance-et-de-fiscalite-de-sousse-2025-2026",
+    "institution_id": "inst_090",
+    "institution_name": "Institut Supérieur de Finance et de Fiscalité de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 146.55,
+    "score_minimum": 139.68,
+    "capacity": 197,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_091",
+    "slug": "admission-institut-superieur-d-informatique-et-des-technologies-de-communication-de-hammam-sousse-2025-2026",
+    "institution_id": "inst_091",
+    "institution_name": "Institut Supérieur d'Informatique et des Technologies de Communication de Hammam Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 120.98,
+    "score_minimum": 106.53,
+    "capacity": 211,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_092",
+    "slug": "admission-institut-superieur-du-transport-et-de-la-logistique-de-sousse-2025-2026",
+    "institution_id": "inst_092",
+    "institution_name": "Institut Supérieur du Transport et de la Logistique de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 143.21,
+    "score_minimum": 131.41,
+    "capacity": 70,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences du Sport",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_093",
+    "slug": "admission-institut-superieur-de-beaux-arts-de-sousse-2025-2026",
+    "institution_id": "inst_093",
+    "institution_name": "Institut Supérieur de Beaux Arts de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 154.04,
+    "score_minimum": 142.21,
+    "capacity": 347,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_094",
+    "slug": "admission-ecole-superieure-des-sciences-et-techniques-de-la-sante-de-sousse-2025-2026",
+    "institution_id": "inst_094",
+    "institution_name": "Ecole Supérieure des Sciences et Techniques de la Santé de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 148.32,
+    "score_minimum": 134.35,
+    "capacity": 51,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_095",
+    "slug": "admission-institut-superieur-de-gestion-de-sousse-2025-2026",
+    "institution_id": "inst_095",
+    "institution_name": "Institut Supérieur de Gestion de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 148.8,
+    "score_minimum": 139.22,
+    "capacity": 147,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_096",
+    "slug": "admission-institut-des-hautes-etudes-commerciales-de-sousse-2025-2026",
+    "institution_id": "inst_096",
+    "institution_name": "Institut des Hautes Etudes Commerciales de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 137.81,
+    "score_minimum": 125.87,
+    "capacity": 147,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_097",
+    "slug": "admission-institut-superieur-de-musique-de-sousse-2025-2026",
+    "institution_id": "inst_097",
+    "institution_name": "Institut Supérieur de Musique de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 123.51,
+    "score_minimum": 109.57,
+    "capacity": 274,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_098",
+    "slug": "admission-institut-superieur-des-sciences-appliquees-et-de-technologie-de-sousse-2025-2026",
+    "institution_id": "inst_098",
+    "institution_name": "Institut Supérieur des Sciences Appliquées et de Technologie de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 168.01,
+    "score_minimum": 160.18,
+    "capacity": 226,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_099",
+    "slug": "admission-institut-superieur-agronomique-de-chott-meriem-2025-2026",
+    "institution_id": "inst_099",
+    "institution_name": "Institut Supérieur Agronomique de Chott Mériem",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 129.92,
+    "score_minimum": 120.99,
+    "capacity": 165,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_100",
+    "slug": "admission-institut-superieur-des-sciences-infirmieres-de-sousse-2025-2026",
+    "institution_id": "inst_100",
+    "institution_name": "Institut Supérieur des Sciences infirmières de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 109.82,
+    "score_minimum": 98.05,
+    "capacity": 56,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_101",
+    "slug": "admission-ecole-superieure-des-sciences-et-des-technologies-de-hammam-sousse-2025-2026",
+    "institution_id": "inst_101",
+    "institution_name": "Ecole Supérieure des Sciences et des technologies de Hammam Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 128.47,
+    "score_minimum": 118.22,
+    "capacity": 52,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_102",
+    "slug": "admission-faculte-des-sciences-de-monastir-2025-2026",
+    "institution_id": "inst_102",
+    "institution_name": "Faculté des Sciences de Monastir",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 119.09,
+    "score_minimum": 107.56,
+    "capacity": 273,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_103",
+    "slug": "admission-faculte-de-medecine-de-monastir-2025-2026",
+    "institution_id": "inst_103",
+    "institution_name": "Faculté de Médecine de Monastir",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 130.7,
+    "score_minimum": 123.54,
+    "capacity": 186,
+    "degree": "Doctorat en Médecine",
+    "field": "Sciences de la Santé",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_104",
+    "slug": "admission-institut-superieur-d-informatique-et-de-mathematiques-de-monastir-2025-2026",
+    "institution_id": "inst_104",
+    "institution_name": "Institut Supérieur d'Informatique et de Mathématiques de Monastir",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 110.29,
+    "score_minimum": 102.35,
+    "capacity": 97,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_105",
+    "slug": "admission-faculte-de-medecine-dentaire-de-monastir-2025-2026",
+    "institution_id": "inst_105",
+    "institution_name": "Faculté de Médecine Dentaire de Monastir",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 112.12,
+    "score_minimum": 103.89,
+    "capacity": 131,
+    "degree": "Doctorat en Médecine Dentaire",
+    "field": "Sciences de la Santé",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_106",
+    "slug": "admission-faculte-de-pharmacie-de-monastir-2025-2026",
+    "institution_id": "inst_106",
+    "institution_name": "Faculté de Pharmacie de Monastir",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 149.02,
+    "score_minimum": 134.13,
+    "capacity": 213,
+    "degree": "Doctorat en Pharmacie",
+    "field": "Sciences de la Santé",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_107",
+    "slug": "admission-faculte-des-sciences-economiques-et-de-gestion-de-mahdia-2025-2026",
+    "institution_id": "inst_107",
+    "institution_name": "Faculté des Sciences Economiques et de Gestion de Mahdia",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 163.99,
+    "score_minimum": 150.43,
+    "capacity": 167,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_108",
+    "slug": "admission-institut-superieur-de-biotechnologie-de-monastir-2025-2026",
+    "institution_id": "inst_108",
+    "institution_name": "Institut Supérieur de Biotechnologie de Monastir",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 166.27,
+    "score_minimum": 156.67,
+    "capacity": 77,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_109",
+    "slug": "admission-institut-preparatoire-aux-etudes-d-ingenieurs-de-monastir-2025-2026",
+    "institution_id": "inst_109",
+    "institution_name": "Institut Préparatoire aux Etudes d'Ingénieurs de Monastir",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 156.77,
+    "score_minimum": 146.16,
+    "capacity": 280,
+    "degree": "Cycle Préparatoire",
+    "field": "Sciences de l'Ingénieur",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_110",
+    "slug": "admission-ecole-superieure-des-sciences-et-techniques-de-la-sante-de-monastir-2025-2026",
+    "institution_id": "inst_110",
+    "institution_name": "Ecole Supérieure des Sciences et Techniques de la Santé de Monastir",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 161.56,
+    "score_minimum": 146.89,
+    "capacity": 278,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_111",
+    "slug": "admission-institut-superieur-des-etudes-appliquees-en-humanites-de-mahdia-2025-2026",
+    "institution_id": "inst_111",
+    "institution_name": "Institut Supérieur des Etudes Appliquées en Humanités de Mahdia",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 114.41,
+    "score_minimum": 107.26,
+    "capacity": 287,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_112",
+    "slug": "admission-institut-superieur-des-metiers-de-la-mode-de-monastir-2025-2026",
+    "institution_id": "inst_112",
+    "institution_name": "Institut Supérieur des Métiers de la Mode de Monastir",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 123.48,
+    "score_minimum": 114.55,
+    "capacity": 253,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_113",
+    "slug": "admission-institut-superieur-d-informatique-de-mahdia-2025-2026",
+    "institution_id": "inst_113",
+    "institution_name": "Institut Supérieur d 'Informatique de Mahdia",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 162.25,
+    "score_minimum": 148.44,
+    "capacity": 348,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_114",
+    "slug": "admission-institut-superieur-des-arts-et-metiers-de-mahdia-2025-2026",
+    "institution_id": "inst_114",
+    "institution_name": "Institut Supérieur des Arts et Métiers de Mahdia",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 108.98,
+    "score_minimum": 102.89,
+    "capacity": 125,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_115",
+    "slug": "admission-institut-superieur-des-sciences-appliquees-et-de-technologie-de-mahdia-2025-2026",
+    "institution_id": "inst_115",
+    "institution_name": "Institut Supérieur des Sciences Appliquées et de Technologie de Mahdia",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 118.21,
+    "score_minimum": 112.93,
+    "capacity": 89,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_116",
+    "slug": "admission-institut-superieur-des-langues-appliquees-aux-affaires-et-au-tourisme-de-moknine-2025-2026",
+    "institution_id": "inst_116",
+    "institution_name": "Institut Supérieur des Langues Appliquées aux Affaires et au Tourisme de Moknine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 124.88,
+    "score_minimum": 118.99,
+    "capacity": 289,
+    "degree": "Licence Fondamentale",
+    "field": "Langues",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_117",
+    "slug": "admission-faculte-des-sciences-economiques-et-de-gestion-de-sfax-2025-2026",
+    "institution_id": "inst_117",
+    "institution_name": "Faculté des Sciences Economiques et de Gestion de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 124.11,
+    "score_minimum": 114.01,
+    "capacity": 89,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_118",
+    "slug": "admission-faculte-de-medecine-de-sfax-2025-2026",
+    "institution_id": "inst_118",
+    "institution_name": "Faculté de Médecine de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 120.45,
+    "score_minimum": 109.72,
+    "capacity": 292,
+    "degree": "Doctorat en Médecine",
+    "field": "Sciences de la Santé",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_119",
+    "slug": "admission-faculte-de-droit-de-sfax-2025-2026",
+    "institution_id": "inst_119",
+    "institution_name": "Faculté de droit de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 112.19,
+    "score_minimum": 97.52,
+    "capacity": 72,
+    "degree": "Licence Fondamentale",
+    "field": "Droit et Sciences Politiques",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_120",
+    "slug": "admission-institut-superieur-des-arts-et-metiers-de-sfax-2025-2026",
+    "institution_id": "inst_120",
+    "institution_name": "Institut Supérieur des Arts et Métiers de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 106.46,
+    "score_minimum": 98.55,
+    "capacity": 94,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_121",
+    "slug": "admission-institut-superieur-d-electronique-et-de-communication-de-sfax-2025-2026",
+    "institution_id": "inst_121",
+    "institution_name": "Institut Supérieur d'Electronique et de Communication de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 147.49,
+    "score_minimum": 139.94,
+    "capacity": 220,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences de l'Information et Communication",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_122",
+    "slug": "admission-institut-superieur-de-gestion-industrielle-de-sfax-2025-2026",
+    "institution_id": "inst_122",
+    "institution_name": "Institut Supérieur de Gestion Industrielle de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 163.13,
+    "score_minimum": 154.74,
+    "capacity": 292,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_123",
+    "slug": "admission-institut-des-hautes-etudes-commerciales-de-sfax-2025-2026",
+    "institution_id": "inst_123",
+    "institution_name": "Institut des Hautes Etudes Commerciales de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 163.75,
+    "score_minimum": 154.3,
+    "capacity": 56,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_124",
+    "slug": "admission-faculte-des-sciences-de-sfax-2025-2026",
+    "institution_id": "inst_124",
+    "institution_name": "Faculté des Sciences de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 171.05,
+    "score_minimum": 159.21,
+    "capacity": 101,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_125",
+    "slug": "admission-ecole-superieure-de-commerce-de-sfax-2025-2026",
+    "institution_id": "inst_125",
+    "institution_name": "Ecole Supérieure de Commerce de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 106.83,
+    "score_minimum": 97.19,
+    "capacity": 93,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_126",
+    "slug": "admission-institut-superieur-d-administration-des-affaires-de-sfax-2025-2026",
+    "institution_id": "inst_126",
+    "institution_name": "Institut Supérieur d'Administration des Affaires de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 159.44,
+    "score_minimum": 153.23,
+    "capacity": 63,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_127",
+    "slug": "admission-institut-superieur-d-informatique-et-de-multimedia-de-sfax-2025-2026",
+    "institution_id": "inst_127",
+    "institution_name": "Institut Supérieur d'Informatique et de Multimédia de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 107.87,
+    "score_minimum": 100.76,
+    "capacity": 273,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_128",
+    "slug": "admission-institut-superieur-de-musique-de-sfax-2025-2026",
+    "institution_id": "inst_128",
+    "institution_name": "Institut Supérieur de Musique de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 129.13,
+    "score_minimum": 122.14,
+    "capacity": 209,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_129",
+    "slug": "admission-institut-preparatoire-aux-etudes-d-ingenieurs-de-sfax-2025-2026",
+    "institution_id": "inst_129",
+    "institution_name": "Institut Préparatoire aux Etudes d'Ingénieurs de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 164.07,
+    "score_minimum": 156.12,
+    "capacity": 50,
+    "degree": "Cycle Préparatoire",
+    "field": "Sciences de l'Ingénieur",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_130",
+    "slug": "admission-institut-superieur-du-sport-et-de-l-education-physique-de-sfax-2025-2026",
+    "institution_id": "inst_130",
+    "institution_name": "Institut Supérieur du Sport et de l'Education Physique de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 140.34,
+    "score_minimum": 128.13,
+    "capacity": 224,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Fondamentales",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_131",
+    "slug": "admission-institut-superieur-de-biotechnologies-de-sfax-2025-2026",
+    "institution_id": "inst_131",
+    "institution_name": "Institut Supérieur de Biotechnologies de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 140.17,
+    "score_minimum": 134.36,
+    "capacity": 203,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_132",
+    "slug": "admission-faculte-des-lettres-et-sciences-humaines-de-sfax-2025-2026",
+    "institution_id": "inst_132",
+    "institution_name": "Faculté des Lettres et Sciences Humaines de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 171.11,
+    "score_minimum": 159.02,
+    "capacity": 82,
+    "degree": "Licence Fondamentale",
+    "field": "Lettres et Sciences Humaines",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_133",
+    "slug": "admission-institut-zitouna-de-sfax-2025-2026",
+    "institution_id": "inst_133",
+    "institution_name": "Institut Zitouna de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 165.64,
+    "score_minimum": 155.77,
+    "capacity": 177,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_134",
+    "slug": "admission-ecole-superieure-des-sciences-et-techniques-de-la-sante-de-sfax-2025-2026",
+    "institution_id": "inst_134",
+    "institution_name": "Ecole Supérieure des Sciences et Techniques de la Santé de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 163.12,
+    "score_minimum": 157.08,
+    "capacity": 267,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_135",
+    "slug": "admission-institut-superieur-des-sciences-infirmieres-de-sfax-2025-2026",
+    "institution_id": "inst_135",
+    "institution_name": "Institut Supérieur des Sciences infirmières de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 168.26,
+    "score_minimum": 157.03,
+    "capacity": 191,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_136",
+    "slug": "admission-institut-superieur-de-theologie-de-tunis-2025-2026",
+    "institution_id": "inst_136",
+    "institution_name": "Institut Supérieur de Théologie de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 164.96,
+    "score_minimum": 157.71,
+    "capacity": 64,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_137",
+    "slug": "admission-institut-superieur-de-civilisation-islamique-de-tunis-2025-2026",
+    "institution_id": "inst_137",
+    "institution_name": "Institut Supérieur de Civilisation Islamique de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 140.74,
+    "score_minimum": 135.39,
+    "capacity": 182,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_138",
+    "slug": "admission-centre-de-e-tudes-islamiques-de-kairouan-2025-2026",
+    "institution_id": "inst_138",
+    "institution_name": "Centre de éةtudes Islamiques de Kairouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 137.65,
+    "score_minimum": 130.57,
+    "capacity": 199,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_139",
+    "slug": "admission-faculte-des-lettres-des-arts-et-des-humanites-de-la-manouba-2025-2026",
+    "institution_id": "inst_139",
+    "institution_name": "Faculté des Lettres, des Arts et des Humanités de la Manouba",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 115.04,
+    "score_minimum": 100.58,
+    "capacity": 325,
+    "degree": "Licence Fondamentale",
+    "field": "Lettres et Sciences Humaines",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_140",
+    "slug": "admission-ecole-superieure-des-sciences-et-technologies-du-design-2025-2026",
+    "institution_id": "inst_140",
+    "institution_name": "Ecole Supérieure des Sciences et Technologies du Design",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 128.35,
+    "score_minimum": 118.78,
+    "capacity": 164,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_141",
+    "slug": "admission-ecole-superieure-de-commerce-de-tunis-2025-2026",
+    "institution_id": "inst_141",
+    "institution_name": "Ecole Supérieure de Commerce de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 129.99,
+    "score_minimum": 118.35,
+    "capacity": 144,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_142",
+    "slug": "admission-ecole-superieure-de-commerce-electronique-de-la-manouba-2025-2026",
+    "institution_id": "inst_142",
+    "institution_name": "Ecole Supérieure de Commerce Electronique de la Manouba",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 156.17,
+    "score_minimum": 142.25,
+    "capacity": 223,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Économiques et Gestion",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_143",
+    "slug": "admission-ecole-nationale-des-sciences-de-l-informatique-2025-2026",
+    "institution_id": "inst_143",
+    "institution_name": "Ecole Nationale des Sciences de l'Informatique",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 141.23,
+    "score_minimum": 134.82,
+    "capacity": 122,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_144",
+    "slug": "admission-institut-superieur-des-arts-du-multimedia-de-la-manouba-2025-2026",
+    "institution_id": "inst_144",
+    "institution_name": "Institut Supérieur des Arts du Multimédia de la Manouba",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 107.08,
+    "score_minimum": 93.85,
+    "capacity": 158,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_145",
+    "slug": "admission-institut-superieur-de-comptabilite-et-d-administration-des-entreprises-2025-2026",
+    "institution_id": "inst_145",
+    "institution_name": "Institut Supérieur de Comptabilité et d'Administration des Entreprises",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 142.53,
+    "score_minimum": 133.48,
+    "capacity": 114,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_146",
+    "slug": "admission-institut-superieur-de-biotechnologie-de-sidi-thabet-2025-2026",
+    "institution_id": "inst_146",
+    "institution_name": "Institut Supérieur de Biotechnologie de Sidi Thabet",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 149.65,
+    "score_minimum": 142.09,
+    "capacity": 306,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_147",
+    "slug": "admission-institut-superieur-de-documentation-de-tunis-2025-2026",
+    "institution_id": "inst_147",
+    "institution_name": "Institut Supérieur de Documentation de Tunis",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 130.34,
+    "score_minimum": 119.34,
+    "capacity": 170,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_148",
+    "slug": "admission-institut-de-presse-et-des-sciences-de-l-information-2025-2026",
+    "institution_id": "inst_148",
+    "institution_name": "Institut de Presse et des Sciences de l'Information",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 122.7,
+    "score_minimum": 116.33,
+    "capacity": 297,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_149",
+    "slug": "admission-ecole-nationale-de-medecine-veterinaire-de-sidi-thabet-2025-2026",
+    "institution_id": "inst_149",
+    "institution_name": "Ecole Nationale de Médecine Vétérinaire de Sidi Thabet",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 173.62,
+    "score_minimum": 164.17,
+    "capacity": 323,
+    "degree": "Doctorat en Médecine Vétérinaire",
+    "field": "Sciences de la Santé",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_150",
+    "slug": "admission-institut-superieur-du-sport-et-de-l-education-physique-de-ksar-said-2025-2026",
+    "institution_id": "inst_150",
+    "institution_name": "Institut Supérieur du Sport et de l'Education Physique de Ksar Saïd",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 144.07,
+    "score_minimum": 135.8,
+    "capacity": 333,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Fondamentales",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_151",
+    "slug": "admission-institut-superieur-de-promotion-des-handicapes-de-ksar-said-2025-2026",
+    "institution_id": "inst_151",
+    "institution_name": "Institut Supérieur de Promotion des Handicapés de Ksar Saïd",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 120.68,
+    "score_minimum": 109.07,
+    "capacity": 322,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_152",
+    "slug": "admission-institut-superieur-d-histoire-du-mouvement-national-2025-2026",
+    "institution_id": "inst_152",
+    "institution_name": "Institut Supérieur d'Histoire du Mouvement National",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 142.32,
+    "score_minimum": 127.39,
+    "capacity": 158,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_153",
+    "slug": "admission-faculte-des-lettres-et-des-sciences-humaines-de-kairouan-2025-2026",
+    "institution_id": "inst_153",
+    "institution_name": "Faculté des Lettres et des Sciences Humaines de Kairouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 156.2,
+    "score_minimum": 147.79,
+    "capacity": 140,
+    "degree": "Licence Fondamentale",
+    "field": "Lettres et Sciences Humaines",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_154",
+    "slug": "admission-institut-superieur-des-arts-et-metiers-de-kairouan-2025-2026",
+    "institution_id": "inst_154",
+    "institution_name": "Institut Supérieur des Arts et Métiers de Kairouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 118.69,
+    "score_minimum": 113.51,
+    "capacity": 186,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_155",
+    "slug": "admission-institut-superieur-d-informatique-et-de-gestion-de-kairouan-2025-2026",
+    "institution_id": "inst_155",
+    "institution_name": "Institut Supérieur d 'Informatique et de Gestion de Kairouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 130.75,
+    "score_minimum": 119.37,
+    "capacity": 194,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_156",
+    "slug": "admission-institut-superieur-des-etudes-juridiques-et-politiques-de-kairouan-2025-2026",
+    "institution_id": "inst_156",
+    "institution_name": "Institut Supérieur des Etudes Juridiques et Politiques de Kairouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 114.76,
+    "score_minimum": 103.35,
+    "capacity": 296,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_157",
+    "slug": "admission-institut-superieur-des-sciences-appliquees-et-de-technologie-de-kairouan-2025-2026",
+    "institution_id": "inst_157",
+    "institution_name": "Institut Supérieur des Sciences Appliquées et de Technologie de Kairouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 111.95,
+    "score_minimum": 105.09,
+    "capacity": 74,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_158",
+    "slug": "admission-institut-superieur-des-arts-et-metiers-de-kasserine-2025-2026",
+    "institution_id": "inst_158",
+    "institution_name": "Institut Supérieur des Arts et Métiers de Kasserine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 118.96,
+    "score_minimum": 109.06,
+    "capacity": 297,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_159",
+    "slug": "admission-institut-superieur-des-mathematiques-appliquees-et-de-l-informatique-de-kairouan-2025-2026",
+    "institution_id": "inst_159",
+    "institution_name": "Institut Supérieur des Mathématiques Appliquées et de l'Informatique de Kairouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 167.95,
+    "score_minimum": 162.24,
+    "capacity": 254,
+    "degree": "Licence Fondamentale",
+    "field": "Informatique et Technologies",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_160",
+    "slug": "admission-institut-superieur-des-etudes-appliquees-en-sciences-humaines-de-sbeitla-2025-2026",
+    "institution_id": "inst_160",
+    "institution_name": "Institut Supérieur des Etudes Appliquées en Sciences Humaines de Sbeïtla",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 156.86,
+    "score_minimum": 147.36,
+    "capacity": 74,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_161",
+    "slug": "admission-institut-superieur-des-arts-et-metiers-de-sidi-bouzid-2025-2026",
+    "institution_id": "inst_161",
+    "institution_name": "Institut Supérieur des Arts et Métiers de Sidi Bouzid",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 162.92,
+    "score_minimum": 154.26,
+    "capacity": 209,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_162",
+    "slug": "admission-faculte-des-sciences-de-gafsa-2025-2026",
+    "institution_id": "inst_162",
+    "institution_name": "Faculté des Sciences de Gafsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 145.43,
+    "score_minimum": 137.36,
+    "capacity": 139,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_163",
+    "slug": "admission-institut-superieur-des-etudes-appliquees-en-humanites-de-gafsa-2025-2026",
+    "institution_id": "inst_163",
+    "institution_name": "Institut Supérieur des Etudes Appliquées en Humanités de Gafsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 135.36,
+    "score_minimum": 126.08,
+    "capacity": 136,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_164",
+    "slug": "admission-institut-superieur-d-administration-des-entreprises-de-gafsa-2025-2026",
+    "institution_id": "inst_164",
+    "institution_name": "Institut Supérieur d 'Administration des Entreprises de Gafsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 130.94,
+    "score_minimum": 120.44,
+    "capacity": 178,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_165",
+    "slug": "admission-institut-superieur-des-sciences-appliquees-et-de-technologie-de-gafsa-2025-2026",
+    "institution_id": "inst_165",
+    "institution_name": "Institut Supérieur des Sciences Appliquées et de Technologie de Gafsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 161.26,
+    "score_minimum": 152.1,
+    "capacity": 101,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_166",
+    "slug": "admission-institut-superieur-darts-et-metiers-de-gafsa-2025-2026",
+    "institution_id": "inst_166",
+    "institution_name": "Institut Supérieur dArts et Métiers de Gafsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 130.34,
+    "score_minimum": 119.34,
+    "capacity": 170,
+    "degree": "Licence Fondamentale",
+    "field": "Arts et Design",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_167",
+    "slug": "admission-institut-superieur-des-sciences-et-des-technologies-de-l-energie-de-gafsa-2025-2026",
+    "institution_id": "inst_167",
+    "institution_name": "Institut Supérieur des Sciences et des Technologies de l’énergie de Gafsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 136.36,
+    "score_minimum": 122.94,
+    "capacity": 198,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_168",
+    "slug": "admission-institut-superieur-des-etudes-appliquees-en-humanites-de-tozeur-2025-2026",
+    "institution_id": "inst_168",
+    "institution_name": "Institut Supérieur des Etudes Appliquées en Humanités de Tozeur",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 154.83,
+    "score_minimum": 145.56,
+    "capacity": 75,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_169",
+    "slug": "admission-institut-preparatoire-aux-etudes-d-ingenieur-de-gafsa-2025-2026",
+    "institution_id": "inst_169",
+    "institution_name": "Institut Préparatoire aux Etudes d’Ingénieur de Gafsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 139.63,
+    "score_minimum": 133.95,
+    "capacity": 295,
+    "degree": "Cycle Préparatoire",
+    "field": "Sciences de l'Ingénieur",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_170",
+    "slug": "admission-institut-superieur-du-sport-et-de-l-education-physique-de-gafsa-2025-2026",
+    "institution_id": "inst_170",
+    "institution_name": "Institut Supérieur du Sport et de l’Education Physique de Gafsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 141.56,
+    "score_minimum": 133.28,
+    "capacity": 71,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences Fondamentales",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_171",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-sfax-2025-2026",
+    "institution_id": "inst_171",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Sfax",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 115.74,
+    "score_minimum": 101.34,
+    "capacity": 112,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_172",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-kebili-2025-2026",
+    "institution_id": "inst_172",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Kebili",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 124.57,
+    "score_minimum": 117.37,
+    "capacity": 198,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_173",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-gabes-2025-2026",
+    "institution_id": "inst_173",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Gabès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 130.98,
+    "score_minimum": 116.39,
+    "capacity": 120,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_174",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-jerba-2025-2026",
+    "institution_id": "inst_174",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Jerba",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 128.63,
+    "score_minimum": 113.83,
+    "capacity": 261,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_175",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-kef-2025-2026",
+    "institution_id": "inst_175",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Kef",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 116.93,
+    "score_minimum": 104.81,
+    "capacity": 348,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_176",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-zaghouan-2025-2026",
+    "institution_id": "inst_176",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Zaghouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 106.11,
+    "score_minimum": 92.44,
+    "capacity": 150,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_177",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-sousse-2025-2026",
+    "institution_id": "inst_177",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Sousse",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 120.42,
+    "score_minimum": 105.9,
+    "capacity": 278,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_178",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-mahdia-2025-2026",
+    "institution_id": "inst_178",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Mahdia",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 144.65,
+    "score_minimum": 134.76,
+    "capacity": 281,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_179",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-siliana-2025-2026",
+    "institution_id": "inst_179",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Siliana",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 114.39,
+    "score_minimum": 101.73,
+    "capacity": 118,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_180",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-rades-2025-2026",
+    "institution_id": "inst_180",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Radès",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 139.63,
+    "score_minimum": 126.69,
+    "capacity": 220,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_181",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-nabeul-2025-2026",
+    "institution_id": "inst_181",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Nabeul",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 115.78,
+    "score_minimum": 100.87,
+    "capacity": 200,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_182",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-sidi-bouzid-2025-2026",
+    "institution_id": "inst_182",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Sidi Bouzid",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 107.57,
+    "score_minimum": 95.53,
+    "capacity": 286,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_183",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-en-communications-el-ghazala-2025-2026",
+    "institution_id": "inst_183",
+    "institution_name": "Institut Supérieur des Etudes Technologiques en Communications (El Ghazala)",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 167.87,
+    "score_minimum": 158.18,
+    "capacity": 218,
+    "degree": "Licence Fondamentale",
+    "field": "Sciences de l'Information et Communication",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_184",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-kairouan-2025-2026",
+    "institution_id": "inst_184",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Kairouan",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 128.5,
+    "score_minimum": 117.88,
+    "capacity": 241,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_185",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-gafsa-2025-2026",
+    "institution_id": "inst_185",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Gafsa",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 145.03,
+    "score_minimum": 137.12,
+    "capacity": 193,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_186",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-beja-2025-2026",
+    "institution_id": "inst_186",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Béja",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 160.61,
+    "score_minimum": 147.96,
+    "capacity": 162,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_187",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-charguia-2025-2026",
+    "institution_id": "inst_187",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Charguia",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 136.17,
+    "score_minimum": 121.55,
+    "capacity": 158,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_188",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-jendouba-2025-2026",
+    "institution_id": "inst_188",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Jendouba",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 125.29,
+    "score_minimum": 114.3,
+    "capacity": 348,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_189",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-kasserine-2025-2026",
+    "institution_id": "inst_189",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Kasserine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 163.92,
+    "score_minimum": 157.64,
+    "capacity": 322,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_190",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-ksar-hellal-2025-2026",
+    "institution_id": "inst_190",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Ksar Hellal",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 118.71,
+    "score_minimum": 111.45,
+    "capacity": 269,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_191",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-tataouine-2025-2026",
+    "institution_id": "inst_191",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Tataouine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 119.02,
+    "score_minimum": 106.49,
+    "capacity": 109,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_192",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-tozeur-2025-2026",
+    "institution_id": "inst_192",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Tozeur",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 146.55,
+    "score_minimum": 139.68,
+    "capacity": 197,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_193",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-bizerte-2025-2026",
+    "institution_id": "inst_193",
+    "institution_name": "Institut Supérieur des Etudes Technologiques de Bizerte",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 148.42,
+    "score_minimum": 137.67,
+    "capacity": 92,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "adm_194",
+    "slug": "admission-institut-superieur-des-etudes-technologiques-de-medenine-2025-2026",
+    "institution_id": "inst_194",
+    "institution_name": "Institut supérieur des Etudes Technologiques de Médenine",
+    "academic_year": "2025-2026",
+    "score_last_admitted": 106.79,
+    "score_minimum": 96.79,
+    "capacity": 216,
+    "degree": "Licence Fondamentale",
+    "field": "Général",
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.95
+  }
+]

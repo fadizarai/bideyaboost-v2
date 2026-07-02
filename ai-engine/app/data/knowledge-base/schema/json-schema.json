@@ -1,0 +1,118 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "TunisianHigherEducationOrientationSchema",
+  "description": "JSON Schema for the normalized, AI-ready Tunisian Higher Education Orientation System (Guide d'Orientation Universitaire 2026)",
+  "type": "object",
+  "properties": {
+    "universities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "slug", "name_fr", "name_ar", "name_en", "abbreviation", "type", "city_id", "governorate_id"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^univ_\\d{3}$" },
+          "slug": { "type": "string" },
+          "name_fr": { "type": "string" },
+          "name_ar": { "type": "string" },
+          "name_en": { "type": "string" },
+          "abbreviation": { "type": "string" },
+          "type": { "type": "string", "enum": ["public", "private", "dget"] },
+          "city_id": { "type": "string" },
+          "governorate_id": { "type": "string" },
+          "address": { "type": "string" },
+          "gps": {
+            "type": ["object", "null"],
+            "properties": {
+              "lat": { "type": "number" },
+              "lng": { "type": "number" }
+            },
+            "required": ["lat", "lng"]
+          },
+          "website": { "type": "string" },
+          "phone": { "type": "string" },
+          "email": { "type": "string" },
+          "facebook": { "type": "string" },
+          "founded_year": { "type": ["integer", "null"] },
+          "institution_count": { "type": "integer" },
+          "created_at": { "type": "string", "format": "date-time" },
+          "updated_at": { "type": "string", "format": "date-time" },
+          "language": { "type": "string", "enum": ["fr", "ar", "en"] },
+          "source": { "type": "array", "items": { "type": "string" } },
+          "confidence_score": { "type": "number", "minimum": 0, "maximum": 1 }
+        }
+      }
+    },
+    "institutions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "slug", "name_fr", "name_ar", "name_en", "university_id", "institution_type", "city_id", "governorate_id"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^inst_\\d{3}$" },
+          "slug": { "type": "string" },
+          "name_fr": { "type": "string" },
+          "name_ar": { "type": "string" },
+          "name_en": { "type": "string" },
+          "abbreviation": { "type": "string" },
+          "institution_type": { "type": "string" },
+          "university_id": { "type": "string" },
+          "university": { "type": "string" },
+          "city_id": { "type": "string" },
+          "city": { "type": "string" },
+          "governorate_id": { "type": "string" },
+          "governorate": { "type": "string" },
+          "address": { "type": "string" },
+          "gps": {
+            "type": ["object", "null"],
+            "properties": {
+              "lat": { "type": "number" },
+              "lng": { "type": "number" }
+            },
+            "required": ["lat", "lng"]
+          },
+          "phone": { "type": "string" },
+          "email": { "type": "string" },
+          "website": { "type": "string" },
+          "facebook": { "type": "string" },
+          "description": { "type": "string" },
+          "campus_info": { "type": "string" },
+          "created_at": { "type": "string", "format": "date-time" },
+          "updated_at": { "type": "string", "format": "date-time" }
+        }
+      }
+    },
+    "programs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "slug", "name_fr", "institution_id", "university_id", "degree", "duration_years", "bac_types"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^prog_\\d{3}$" },
+          "slug": { "type": "string" },
+          "name_fr": { "type": "string" },
+          "name_ar": { "type": "string" },
+          "name_en": { "type": "string" },
+          "orientation_code": { "type": ["string", "null"] },
+          "institution_id": { "type": "string" },
+          "department_id": { "type": "string" },
+          "university_id": { "type": "string" },
+          "degree": { "type": "string" },
+          "duration_years": { "type": "integer" },
+          "capacity": { "type": ["integer", "null"] },
+          "admission_score_last": { "type": ["number", "null"] },
+          "admission_score_min": { "type": ["number", "null"] },
+          "bac_types": { "type": "array", "items": { "type": "string" } },
+          "languages": { "type": "array", "items": { "type": "string" } },
+          "difficulty": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "math_intensity": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "programming_intensity": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "physics_intensity": { "type": "integer", "minimum": 1, "maximum": 10 },
+          "employment_rate": { "type": "number", "minimum": 0, "maximum": 1 },
+          "riasec_profile": { "type": "string" },
+          "mbti_recommended": { "type": "array", "items": { "type": "string" } },
+          "holland_codes": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    }
+  }
+}

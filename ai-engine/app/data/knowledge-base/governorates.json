@@ -1,0 +1,506 @@
+[
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_001",
+    "slug": "tunis",
+    "name_fr": "Tunis",
+    "name_ar": "تونس",
+    "name_en": "Tunis",
+    "region": "Grand Tunis",
+    "population": 1056247,
+    "gps": {
+      "lat": 36.8065,
+      "lng": 10.1815
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_002",
+    "slug": "ariana",
+    "name_fr": "Ariana",
+    "name_ar": "أريانة",
+    "name_en": "Ariana",
+    "region": "Grand Tunis",
+    "population": 576088,
+    "gps": {
+      "lat": 36.8625,
+      "lng": 10.1956
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_003",
+    "slug": "ben-arous",
+    "name_fr": "Ben Arous",
+    "name_ar": "بن عروس",
+    "name_en": "Ben Arous",
+    "region": "Grand Tunis",
+    "population": 631842,
+    "gps": {
+      "lat": 36.7471,
+      "lng": 10.2326
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_004",
+    "slug": "manouba",
+    "name_fr": "Manouba",
+    "name_ar": "منوبة",
+    "name_en": "Manouba",
+    "region": "Grand Tunis",
+    "population": 379518,
+    "gps": {
+      "lat": 36.8101,
+      "lng": 10.0863
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_005",
+    "slug": "nabeul",
+    "name_fr": "Nabeul",
+    "name_ar": "نابل",
+    "name_en": "Nabeul",
+    "region": "Nord-Est",
+    "population": 787920,
+    "gps": {
+      "lat": 36.4561,
+      "lng": 10.7376
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_006",
+    "slug": "zaghouan",
+    "name_fr": "Zaghouan",
+    "name_ar": "زغوان",
+    "name_en": "Zaghouan",
+    "region": "Nord-Est",
+    "population": 176945,
+    "gps": {
+      "lat": 36.4029,
+      "lng": 10.1429
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_007",
+    "slug": "bizerte",
+    "name_fr": "Bizerte",
+    "name_ar": "بنزرت",
+    "name_en": "Bizerte",
+    "region": "Nord",
+    "population": 568219,
+    "gps": {
+      "lat": 37.2744,
+      "lng": 9.8739
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_008",
+    "slug": "beja",
+    "name_fr": "Béja",
+    "name_ar": "باجة",
+    "name_en": "Beja",
+    "region": "Nord-Ouest",
+    "population": 303032,
+    "gps": {
+      "lat": 36.7256,
+      "lng": 9.1817
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_009",
+    "slug": "jendouba",
+    "name_fr": "Jendouba",
+    "name_ar": "جندوبة",
+    "name_en": "Jendouba",
+    "region": "Nord-Ouest",
+    "population": 401477,
+    "gps": {
+      "lat": 36.5012,
+      "lng": 8.7801
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_010",
+    "slug": "le-kef",
+    "name_fr": "Le Kef",
+    "name_ar": "الكاف",
+    "name_en": "Le Kef",
+    "region": "Nord-Ouest",
+    "population": 243156,
+    "gps": {
+      "lat": 36.1826,
+      "lng": 8.7148
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_011",
+    "slug": "siliana",
+    "name_fr": "Siliana",
+    "name_ar": "سليانة",
+    "name_en": "Siliana",
+    "region": "Nord-Ouest",
+    "population": 223087,
+    "gps": {
+      "lat": 36.085,
+      "lng": 9.3708
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_012",
+    "slug": "sousse",
+    "name_fr": "Sousse",
+    "name_ar": "سوسة",
+    "name_en": "Sousse",
+    "region": "Centre-Est",
+    "population": 674971,
+    "gps": {
+      "lat": 35.8254,
+      "lng": 10.636
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_013",
+    "slug": "monastir",
+    "name_fr": "Monastir",
+    "name_ar": "المنستير",
+    "name_en": "Monastir",
+    "region": "Centre-Est",
+    "population": 548828,
+    "gps": {
+      "lat": 35.7643,
+      "lng": 10.8113
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_014",
+    "slug": "mahdia",
+    "name_fr": "Mahdia",
+    "name_ar": "المهدية",
+    "name_en": "Mahdia",
+    "region": "Centre-Est",
+    "population": 410812,
+    "gps": {
+      "lat": 35.5047,
+      "lng": 11.0622
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_015",
+    "slug": "sfax",
+    "name_fr": "Sfax",
+    "name_ar": "صفاقس",
+    "name_en": "Sfax",
+    "region": "Centre-Est",
+    "population": 955421,
+    "gps": {
+      "lat": 34.7398,
+      "lng": 10.76
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_016",
+    "slug": "kairouan",
+    "name_fr": "Kairouan",
+    "name_ar": "القيروان",
+    "name_en": "Kairouan",
+    "region": "Centre-Ouest",
+    "population": 570559,
+    "gps": {
+      "lat": 35.6781,
+      "lng": 10.0963
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_017",
+    "slug": "kasserine",
+    "name_fr": "Kasserine",
+    "name_ar": "القصرين",
+    "name_en": "Kasserine",
+    "region": "Centre-Ouest",
+    "population": 439243,
+    "gps": {
+      "lat": 35.1672,
+      "lng": 8.8365
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_018",
+    "slug": "sidi-bouzid",
+    "name_fr": "Sidi Bouzid",
+    "name_ar": "سيدي بوزيد",
+    "name_en": "Sidi Bouzid",
+    "region": "Centre-Ouest",
+    "population": 429912,
+    "gps": {
+      "lat": 35.0354,
+      "lng": 9.4839
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_019",
+    "slug": "gabes",
+    "name_fr": "Gabès",
+    "name_ar": "قابس",
+    "name_en": "Gabes",
+    "region": "Sud-Est",
+    "population": 374300,
+    "gps": {
+      "lat": 33.8815,
+      "lng": 10.0982
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_020",
+    "slug": "medenine",
+    "name_fr": "Médenine",
+    "name_ar": "مدنين",
+    "name_en": "Medenine",
+    "region": "Sud-Est",
+    "population": 479520,
+    "gps": {
+      "lat": 33.354,
+      "lng": 10.5055
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_021",
+    "slug": "tataouine",
+    "name_fr": "Tataouine",
+    "name_ar": "تطاوين",
+    "name_en": "Tataouine",
+    "region": "Sud-Est",
+    "population": 149453,
+    "gps": {
+      "lat": 32.9297,
+      "lng": 10.4517
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_022",
+    "slug": "gafsa",
+    "name_fr": "Gafsa",
+    "name_ar": "قفصة",
+    "name_en": "Gafsa",
+    "region": "Sud-Ouest",
+    "population": 337331,
+    "gps": {
+      "lat": 34.425,
+      "lng": 8.7842
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_023",
+    "slug": "tozeur",
+    "name_fr": "Tozeur",
+    "name_ar": "توزر",
+    "name_en": "Tozeur",
+    "region": "Sud-Ouest",
+    "population": 107912,
+    "gps": {
+      "lat": 33.9197,
+      "lng": 8.1339
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "gov_024",
+    "slug": "kebili",
+    "name_fr": "Kébili",
+    "name_ar": "قبلي",
+    "name_en": "Kebili",
+    "region": "Sud-Ouest",
+    "population": 156961,
+    "gps": {
+      "lat": 33.7072,
+      "lng": 8.9697
+    },
+    "source": [
+      "INS Tunisia",
+      "Wikipedia"
+    ],
+    "confidence_score": 0.95
+  }
+]

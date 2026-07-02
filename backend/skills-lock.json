@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "super-search": {
+      "source": "supermemoryai/claude-supermemory",
+      "sourceType": "github",
+      "computedHash": "7d9969259fa1d0038e8005024b51ae662fd4ca3fc8aaca9194a25a13edeafb0c"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "d8e7d3afe37dcc8a97b99ffb5afdb4d0919ae0092ea8b68f44eb201f035e33ac"
+    }
+  }
+}

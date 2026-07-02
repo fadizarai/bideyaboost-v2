@@ -1,0 +1,1237 @@
+[
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_001",
+    "slug": "python",
+    "name_fr": "Python",
+    "name_en": "Python",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "programming",
+    "difficulty": 5,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_002",
+    "slug": "java",
+    "name_fr": "Java",
+    "name_en": "Java",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "programming",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_003",
+    "slug": "javascript",
+    "name_fr": "JavaScript",
+    "name_en": "JavaScript",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "programming",
+    "difficulty": 5,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_004",
+    "slug": "c-c",
+    "name_fr": "C/C++",
+    "name_en": "C/C++",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "programming",
+    "difficulty": 8,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_005",
+    "slug": "sql",
+    "name_fr": "SQL",
+    "name_en": "SQL",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "data",
+    "difficulty": 4,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_006",
+    "slug": "html-css",
+    "name_fr": "HTML/CSS",
+    "name_en": "HTML/CSS",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "web",
+    "difficulty": 3,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_007",
+    "slug": "php",
+    "name_fr": "PHP",
+    "name_en": "PHP",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "web",
+    "difficulty": 5,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_008",
+    "slug": "react-angular",
+    "name_fr": "React/Angular",
+    "name_en": "React/Angular",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "web",
+    "difficulty": 6,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_009",
+    "slug": "node-js",
+    "name_fr": "Node.js",
+    "name_en": "Node.js",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "web",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_010",
+    "slug": "typescript",
+    "name_fr": "TypeScript",
+    "name_en": "TypeScript",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "programming",
+    "difficulty": 6,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_011",
+    "slug": "r",
+    "name_fr": "R",
+    "name_en": "R",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "data",
+    "difficulty": 5,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_012",
+    "slug": "matlab",
+    "name_fr": "MATLAB",
+    "name_en": "MATLAB",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "engineering",
+    "difficulty": 5,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_013",
+    "slug": "assembly",
+    "name_fr": "Assembly",
+    "name_en": "Assembly",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "systems",
+    "difficulty": 9,
+    "market_demand": "low",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_014",
+    "slug": "swift-kotlin",
+    "name_fr": "Swift/Kotlin",
+    "name_en": "Swift/Kotlin",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "mobile",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_015",
+    "slug": "flutter-dart",
+    "name_fr": "Flutter/Dart",
+    "name_en": "Flutter/Dart",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "mobile",
+    "difficulty": 5,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_016",
+    "slug": "machine-learning",
+    "name_fr": "Machine Learning",
+    "name_en": "Machine Learning",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "ai",
+    "difficulty": 8,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_017",
+    "slug": "deep-learning",
+    "name_fr": "Deep Learning",
+    "name_en": "Deep Learning",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "ai",
+    "difficulty": 9,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_018",
+    "slug": "data-analysis",
+    "name_fr": "Data Analysis",
+    "name_en": "Data Analysis",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "data",
+    "difficulty": 5,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_019",
+    "slug": "data-visualization",
+    "name_fr": "Data Visualization",
+    "name_en": "Data Visualization",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "data",
+    "difficulty": 4,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_020",
+    "slug": "big-data-hadoop-spark",
+    "name_fr": "Big Data (Hadoop/Spark)",
+    "name_en": "Big Data (Hadoop/Spark)",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "data",
+    "difficulty": 7,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_021",
+    "slug": "nlp",
+    "name_fr": "NLP",
+    "name_en": "NLP",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "ai",
+    "difficulty": 8,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_022",
+    "slug": "computer-vision",
+    "name_fr": "Computer Vision",
+    "name_en": "Computer Vision",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "ai",
+    "difficulty": 8,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_023",
+    "slug": "linux-administration",
+    "name_fr": "Linux Administration",
+    "name_en": "Linux Administration",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "systems",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_024",
+    "slug": "docker-kubernetes",
+    "name_fr": "Docker/Kubernetes",
+    "name_en": "Docker/Kubernetes",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "devops",
+    "difficulty": 7,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_025",
+    "slug": "cloud-aws-azure-gcp",
+    "name_fr": "Cloud (AWS/Azure/GCP)",
+    "name_en": "Cloud (AWS/Azure/GCP)",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "cloud",
+    "difficulty": 7,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_026",
+    "slug": "cybersecurity",
+    "name_fr": "Cybersecurity",
+    "name_en": "Cybersecurity",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "security",
+    "difficulty": 8,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_027",
+    "slug": "network-administration",
+    "name_fr": "Network Administration",
+    "name_en": "Network Administration",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "networks",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_028",
+    "slug": "ci-cd-pipelines",
+    "name_fr": "CI/CD Pipelines",
+    "name_en": "CI/CD Pipelines",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "devops",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_029",
+    "slug": "database-administration",
+    "name_fr": "Database Administration",
+    "name_en": "Database Administration",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "data",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_030",
+    "slug": "cao-fao-solidworks-autocad",
+    "name_fr": "CAO/FAO (SolidWorks, AutoCAD)",
+    "name_en": "CAO/FAO (SolidWorks, AutoCAD)",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "engineering",
+    "difficulty": 6,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_031",
+    "slug": "systemes-embarques",
+    "name_fr": "Systèmes Embarqués",
+    "name_en": "Systèmes Embarqués",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "embedded",
+    "difficulty": 8,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_032",
+    "slug": "automatisme-plc",
+    "name_fr": "Automatisme (PLC)",
+    "name_en": "Automatisme (PLC)",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "industrial",
+    "difficulty": 7,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_033",
+    "slug": "electronique",
+    "name_fr": "Électronique",
+    "name_en": "Électronique",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "electronics",
+    "difficulty": 7,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_034",
+    "slug": "traitement-du-signal",
+    "name_fr": "Traitement du Signal",
+    "name_en": "Traitement du Signal",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "engineering",
+    "difficulty": 8,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_035",
+    "slug": "comptabilite",
+    "name_fr": "Comptabilité",
+    "name_en": "Comptabilité",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "finance",
+    "difficulty": 5,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_036",
+    "slug": "audit-financier",
+    "name_fr": "Audit Financier",
+    "name_en": "Audit Financier",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "finance",
+    "difficulty": 7,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_037",
+    "slug": "marketing-digital",
+    "name_fr": "Marketing Digital",
+    "name_en": "Marketing Digital",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "marketing",
+    "difficulty": 4,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_038",
+    "slug": "analyse-financiere",
+    "name_fr": "Analyse Financière",
+    "name_en": "Analyse Financière",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "finance",
+    "difficulty": 7,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_039",
+    "slug": "gestion-de-projet",
+    "name_fr": "Gestion de Projet",
+    "name_en": "Gestion de Projet",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "management",
+    "difficulty": 5,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_040",
+    "slug": "erp-sap-oracle",
+    "name_fr": "ERP (SAP, Oracle)",
+    "name_en": "ERP (SAP, Oracle)",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "business",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_041",
+    "slug": "biologie-moleculaire",
+    "name_fr": "Biologie Moléculaire",
+    "name_en": "Biologie Moléculaire",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "biology",
+    "difficulty": 7,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_042",
+    "slug": "chimie-analytique",
+    "name_fr": "Chimie Analytique",
+    "name_en": "Chimie Analytique",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "chemistry",
+    "difficulty": 7,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_043",
+    "slug": "physique-des-materiaux",
+    "name_fr": "Physique des Matériaux",
+    "name_en": "Physique des Matériaux",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "physics",
+    "difficulty": 8,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_044",
+    "slug": "mathematiques-appliquees",
+    "name_fr": "Mathématiques Appliquées",
+    "name_en": "Mathématiques Appliquées",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "mathematics",
+    "difficulty": 8,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_045",
+    "slug": "statistiques",
+    "name_fr": "Statistiques",
+    "name_en": "Statistiques",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "data",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_046",
+    "slug": "droit-des-affaires",
+    "name_fr": "Droit des Affaires",
+    "name_en": "Droit des Affaires",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "law",
+    "difficulty": 7,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_047",
+    "slug": "droit-international",
+    "name_fr": "Droit International",
+    "name_en": "Droit International",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "law",
+    "difficulty": 7,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_048",
+    "slug": "redaction-juridique",
+    "name_fr": "Rédaction Juridique",
+    "name_en": "Rédaction Juridique",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "law",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_049",
+    "slug": "diagnostic-medical",
+    "name_fr": "Diagnostic Médical",
+    "name_en": "Diagnostic Médical",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "medicine",
+    "difficulty": 9,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_050",
+    "slug": "design-graphique-photoshop-illustrator",
+    "name_fr": "Design Graphique (Photoshop, Illustrator)",
+    "name_en": "Design Graphique (Photoshop, Illustrator)",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "design",
+    "difficulty": 5,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_051",
+    "slug": "ui-ux-design",
+    "name_fr": "UI/UX Design",
+    "name_en": "UI/UX Design",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "design",
+    "difficulty": 5,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_052",
+    "slug": "3d-modeling",
+    "name_fr": "3D Modeling",
+    "name_en": "3D Modeling",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "design",
+    "difficulty": 7,
+    "market_demand": "medium",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_053",
+    "slug": "video-editing",
+    "name_fr": "Video Editing",
+    "name_en": "Video Editing",
+    "name_ar": "",
+    "category": "hard_skill",
+    "domain": "media",
+    "difficulty": 4,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_054",
+    "slug": "communication",
+    "name_fr": "Communication",
+    "name_en": "Communication",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "interpersonal",
+    "difficulty": 4,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_055",
+    "slug": "travail-en-equipe",
+    "name_fr": "Travail en Équipe",
+    "name_en": "Travail en Équipe",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "interpersonal",
+    "difficulty": 3,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_056",
+    "slug": "leadership",
+    "name_fr": "Leadership",
+    "name_en": "Leadership",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "management",
+    "difficulty": 6,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_057",
+    "slug": "resolution-de-problemes",
+    "name_fr": "Résolution de Problèmes",
+    "name_en": "Résolution de Problèmes",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "analytical",
+    "difficulty": 5,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_058",
+    "slug": "pensee-critique",
+    "name_fr": "Pensée Critique",
+    "name_en": "Pensée Critique",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "analytical",
+    "difficulty": 6,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_059",
+    "slug": "creativite",
+    "name_fr": "Créativité",
+    "name_en": "Créativité",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "creative",
+    "difficulty": 5,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_060",
+    "slug": "adaptabilite",
+    "name_fr": "Adaptabilité",
+    "name_en": "Adaptabilité",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "personal",
+    "difficulty": 4,
+    "market_demand": "very_high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_061",
+    "slug": "gestion-du-temps",
+    "name_fr": "Gestion du Temps",
+    "name_en": "Gestion du Temps",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "personal",
+    "difficulty": 4,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_062",
+    "slug": "presentation-orale",
+    "name_fr": "Présentation Orale",
+    "name_en": "Présentation Orale",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "communication",
+    "difficulty": 5,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_063",
+    "slug": "redaction-technique",
+    "name_fr": "Rédaction Technique",
+    "name_en": "Rédaction Technique",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "communication",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_064",
+    "slug": "negociation",
+    "name_fr": "Négociation",
+    "name_en": "Négociation",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "interpersonal",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "skill_065",
+    "slug": "esprit-entrepreneurial",
+    "name_fr": "Esprit Entrepreneurial",
+    "name_en": "Esprit Entrepreneurial",
+    "name_ar": "",
+    "category": "soft_skill",
+    "domain": "business",
+    "difficulty": 6,
+    "market_demand": "high",
+    "source": [
+      "Industry knowledge",
+      "LinkedIn Skills Index"
+    ],
+    "confidence_score": 0.8
+  }
+]

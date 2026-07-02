@@ -1,0 +1,1386 @@
+[
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_001",
+    "slug": "developpeur-logiciel",
+    "title_fr": "Développeur Logiciel",
+    "title_en": "Software Developer",
+    "title_ar": "مطور برمجيات",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 2200,
+    "salary_europe_annual_eur": 45000,
+    "salary_canada_annual_cad": 75000,
+    "salary_gulf_annual_aed": 180000,
+    "employment_rate": 0.92,
+    "future_outlook": "very_high",
+    "remote_work_opportunities": "high",
+    "ai_compatibility": 0.95,
+    "data_science_compatibility": 0.7,
+    "cybersecurity_compatibility": 0.5,
+    "cloud_compatibility": 0.9,
+    "embedded_systems_compatibility": 0.4,
+    "entrepreneurship_opportunities": "high",
+    "required_skill_ids": [
+      "skill_001",
+      "skill_003",
+      "skill_005",
+      "skill_008",
+      "skill_024"
+    ],
+    "required_skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "React/Angular",
+      "Docker/Kubernetes"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_002",
+    "slug": "ingenieur-en-intelligence-artificielle",
+    "title_fr": "Ingénieur en Intelligence Artificielle",
+    "title_en": "AI Engineer",
+    "title_ar": "مهندس ذكاء اصطناعي",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 3000,
+    "salary_europe_annual_eur": 65000,
+    "salary_canada_annual_cad": 95000,
+    "salary_gulf_annual_aed": 240000,
+    "employment_rate": 0.95,
+    "future_outlook": "very_high",
+    "remote_work_opportunities": "high",
+    "ai_compatibility": 1.0,
+    "data_science_compatibility": 0.95,
+    "cybersecurity_compatibility": 0.4,
+    "cloud_compatibility": 0.85,
+    "embedded_systems_compatibility": 0.5,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_001",
+      "skill_016",
+      "skill_017",
+      "skill_021",
+      "skill_025"
+    ],
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Cloud (AWS/Azure/GCP)"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_003",
+    "slug": "data-scientist",
+    "title_fr": "Data Scientist",
+    "title_en": "Data Scientist",
+    "title_ar": "عالم بيانات",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 2800,
+    "salary_europe_annual_eur": 55000,
+    "salary_canada_annual_cad": 85000,
+    "salary_gulf_annual_aed": 210000,
+    "employment_rate": 0.93,
+    "future_outlook": "very_high",
+    "remote_work_opportunities": "high",
+    "ai_compatibility": 0.95,
+    "data_science_compatibility": 1.0,
+    "cybersecurity_compatibility": 0.3,
+    "cloud_compatibility": 0.8,
+    "embedded_systems_compatibility": 0.2,
+    "entrepreneurship_opportunities": "high",
+    "required_skill_ids": [
+      "skill_001",
+      "skill_011",
+      "skill_016",
+      "skill_018",
+      "skill_005",
+      "skill_045"
+    ],
+    "required_skills": [
+      "Python",
+      "R",
+      "Machine Learning",
+      "Data Analysis",
+      "SQL",
+      "Statistiques"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_004",
+    "slug": "ingenieur-devops",
+    "title_fr": "Ingénieur DevOps",
+    "title_en": "DevOps Engineer",
+    "title_ar": "مهندس DevOps",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 2500,
+    "salary_europe_annual_eur": 55000,
+    "salary_canada_annual_cad": 85000,
+    "salary_gulf_annual_aed": 200000,
+    "employment_rate": 0.94,
+    "future_outlook": "very_high",
+    "remote_work_opportunities": "high",
+    "ai_compatibility": 0.6,
+    "data_science_compatibility": 0.4,
+    "cybersecurity_compatibility": 0.7,
+    "cloud_compatibility": 1.0,
+    "embedded_systems_compatibility": 0.3,
+    "entrepreneurship_opportunities": "medium",
+    "required_skill_ids": [
+      "skill_023",
+      "skill_024",
+      "skill_025",
+      "skill_028",
+      "skill_001"
+    ],
+    "required_skills": [
+      "Linux Administration",
+      "Docker/Kubernetes",
+      "Cloud (AWS/Azure/GCP)",
+      "CI/CD Pipelines",
+      "Python"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_005",
+    "slug": "developpeur-full-stack",
+    "title_fr": "Développeur Full Stack",
+    "title_en": "Full Stack Developer",
+    "title_ar": "مطور ويب شامل",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 2000,
+    "salary_europe_annual_eur": 42000,
+    "salary_canada_annual_cad": 70000,
+    "salary_gulf_annual_aed": 170000,
+    "employment_rate": 0.91,
+    "future_outlook": "high",
+    "remote_work_opportunities": "very_high",
+    "ai_compatibility": 0.7,
+    "data_science_compatibility": 0.4,
+    "cybersecurity_compatibility": 0.5,
+    "cloud_compatibility": 0.8,
+    "embedded_systems_compatibility": 0.2,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_003",
+      "skill_008",
+      "skill_009",
+      "skill_005",
+      "skill_006",
+      "skill_010"
+    ],
+    "required_skills": [
+      "JavaScript",
+      "React/Angular",
+      "Node.js",
+      "SQL",
+      "HTML/CSS",
+      "TypeScript"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_006",
+    "slug": "ingenieur-cybersecurite",
+    "title_fr": "Ingénieur Cybersécurité",
+    "title_en": "Cybersecurity Engineer",
+    "title_ar": "مهندس أمن سيبراني",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 2600,
+    "salary_europe_annual_eur": 55000,
+    "salary_canada_annual_cad": 90000,
+    "salary_gulf_annual_aed": 220000,
+    "employment_rate": 0.96,
+    "future_outlook": "very_high",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.6,
+    "data_science_compatibility": 0.4,
+    "cybersecurity_compatibility": 1.0,
+    "cloud_compatibility": 0.8,
+    "embedded_systems_compatibility": 0.5,
+    "entrepreneurship_opportunities": "high",
+    "required_skill_ids": [
+      "skill_026",
+      "skill_023",
+      "skill_027",
+      "skill_001"
+    ],
+    "required_skills": [
+      "Cybersecurity",
+      "Linux Administration",
+      "Network Administration",
+      "Python"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_007",
+    "slug": "administrateur-reseaux",
+    "title_fr": "Administrateur Réseaux",
+    "title_en": "Network Administrator",
+    "title_ar": "مدير شبكات",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 1800,
+    "salary_europe_annual_eur": 38000,
+    "salary_canada_annual_cad": 60000,
+    "salary_gulf_annual_aed": 150000,
+    "employment_rate": 0.88,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "low",
+    "ai_compatibility": 0.3,
+    "data_science_compatibility": 0.2,
+    "cybersecurity_compatibility": 0.8,
+    "cloud_compatibility": 0.7,
+    "embedded_systems_compatibility": 0.3,
+    "entrepreneurship_opportunities": "low",
+    "required_skill_ids": [
+      "skill_027",
+      "skill_023",
+      "skill_026"
+    ],
+    "required_skills": [
+      "Network Administration",
+      "Linux Administration",
+      "Cybersecurity"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_008",
+    "slug": "developpeur-mobile",
+    "title_fr": "Développeur Mobile",
+    "title_en": "Mobile Developer",
+    "title_ar": "مطور تطبيقات الجوال",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 2100,
+    "salary_europe_annual_eur": 44000,
+    "salary_canada_annual_cad": 72000,
+    "salary_gulf_annual_aed": 175000,
+    "employment_rate": 0.9,
+    "future_outlook": "high",
+    "remote_work_opportunities": "high",
+    "ai_compatibility": 0.6,
+    "data_science_compatibility": 0.3,
+    "cybersecurity_compatibility": 0.4,
+    "cloud_compatibility": 0.6,
+    "embedded_systems_compatibility": 0.3,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_014",
+      "skill_015",
+      "skill_003",
+      "skill_008"
+    ],
+    "required_skills": [
+      "Swift/Kotlin",
+      "Flutter/Dart",
+      "JavaScript",
+      "React/Angular"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_009",
+    "slug": "administrateur-de-base-de-donnees",
+    "title_fr": "Administrateur de Base de Données",
+    "title_en": "Database Administrator",
+    "title_ar": "مدير قواعد البيانات",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 1900,
+    "salary_europe_annual_eur": 42000,
+    "salary_canada_annual_cad": 68000,
+    "salary_gulf_annual_aed": 160000,
+    "employment_rate": 0.87,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.5,
+    "data_science_compatibility": 0.7,
+    "cybersecurity_compatibility": 0.5,
+    "cloud_compatibility": 0.7,
+    "embedded_systems_compatibility": 0.1,
+    "entrepreneurship_opportunities": "low",
+    "required_skill_ids": [
+      "skill_005",
+      "skill_029",
+      "skill_023",
+      "skill_001"
+    ],
+    "required_skills": [
+      "SQL",
+      "Database Administration",
+      "Linux Administration",
+      "Python"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_010",
+    "slug": "ingenieur-genie-civil",
+    "title_fr": "Ingénieur Génie Civil",
+    "title_en": "Civil Engineer",
+    "title_ar": "مهندس هندسة مدنية",
+    "industry": "Construction et BTP",
+    "related_fields": [
+      "Sciences de l'Ingénieur",
+      "Génie Civil"
+    ],
+    "salary_tunisia_monthly_tnd": 2000,
+    "salary_europe_annual_eur": 42000,
+    "salary_canada_annual_cad": 70000,
+    "salary_gulf_annual_aed": 200000,
+    "employment_rate": 0.82,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "low",
+    "ai_compatibility": 0.4,
+    "data_science_compatibility": 0.3,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.2,
+    "embedded_systems_compatibility": 0.2,
+    "entrepreneurship_opportunities": "high",
+    "required_skill_ids": [
+      "skill_030",
+      "skill_039",
+      "skill_044"
+    ],
+    "required_skills": [
+      "CAO/FAO (SolidWorks, AutoCAD)",
+      "Gestion de Projet",
+      "Mathématiques Appliquées"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_011",
+    "slug": "ingenieur-electrique",
+    "title_fr": "Ingénieur Électrique",
+    "title_en": "Electrical Engineer",
+    "title_ar": "مهندس كهربائي",
+    "industry": "Industrie et Énergie",
+    "related_fields": [
+      "Sciences de l'Ingénieur",
+      "Génie Électrique"
+    ],
+    "salary_tunisia_monthly_tnd": 2100,
+    "salary_europe_annual_eur": 45000,
+    "salary_canada_annual_cad": 72000,
+    "salary_gulf_annual_aed": 190000,
+    "employment_rate": 0.85,
+    "future_outlook": "high",
+    "remote_work_opportunities": "low",
+    "ai_compatibility": 0.5,
+    "data_science_compatibility": 0.3,
+    "cybersecurity_compatibility": 0.3,
+    "cloud_compatibility": 0.3,
+    "embedded_systems_compatibility": 0.8,
+    "entrepreneurship_opportunities": "medium",
+    "required_skill_ids": [
+      "skill_033",
+      "skill_032",
+      "skill_030",
+      "skill_012"
+    ],
+    "required_skills": [
+      "Électronique",
+      "Automatisme (PLC)",
+      "CAO/FAO (SolidWorks, AutoCAD)",
+      "MATLAB"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_012",
+    "slug": "ingenieur-mecanique",
+    "title_fr": "Ingénieur Mécanique",
+    "title_en": "Mechanical Engineer",
+    "title_ar": "مهندس ميكانيكي",
+    "industry": "Industrie",
+    "related_fields": [
+      "Sciences de l'Ingénieur",
+      "Génie Mécanique"
+    ],
+    "salary_tunisia_monthly_tnd": 1900,
+    "salary_europe_annual_eur": 43000,
+    "salary_canada_annual_cad": 70000,
+    "salary_gulf_annual_aed": 185000,
+    "employment_rate": 0.8,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "low",
+    "ai_compatibility": 0.3,
+    "data_science_compatibility": 0.2,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.2,
+    "embedded_systems_compatibility": 0.5,
+    "entrepreneurship_opportunities": "medium",
+    "required_skill_ids": [
+      "skill_030",
+      "skill_012",
+      "skill_039"
+    ],
+    "required_skills": [
+      "CAO/FAO (SolidWorks, AutoCAD)",
+      "MATLAB",
+      "Gestion de Projet"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_013",
+    "slug": "ingenieur-systemes-embarques",
+    "title_fr": "Ingénieur Systèmes Embarqués",
+    "title_en": "Embedded Systems Engineer",
+    "title_ar": "مهندس أنظمة مدمجة",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Sciences de l'Ingénieur",
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 2300,
+    "salary_europe_annual_eur": 48000,
+    "salary_canada_annual_cad": 78000,
+    "salary_gulf_annual_aed": 195000,
+    "employment_rate": 0.88,
+    "future_outlook": "high",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.6,
+    "data_science_compatibility": 0.3,
+    "cybersecurity_compatibility": 0.6,
+    "cloud_compatibility": 0.5,
+    "embedded_systems_compatibility": 1.0,
+    "entrepreneurship_opportunities": "medium",
+    "required_skill_ids": [
+      "skill_004",
+      "skill_031",
+      "skill_033",
+      "skill_013"
+    ],
+    "required_skills": [
+      "C/C++",
+      "Systèmes Embarqués",
+      "Électronique",
+      "Assembly"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_014",
+    "slug": "expert-comptable",
+    "title_fr": "Expert-Comptable",
+    "title_en": "Chartered Accountant",
+    "title_ar": "خبير محاسب",
+    "industry": "Finance et Audit",
+    "related_fields": [
+      "Sciences Économiques et Gestion"
+    ],
+    "salary_tunisia_monthly_tnd": 3500,
+    "salary_europe_annual_eur": 55000,
+    "salary_canada_annual_cad": 80000,
+    "salary_gulf_annual_aed": 200000,
+    "employment_rate": 0.9,
+    "future_outlook": "high",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.4,
+    "data_science_compatibility": 0.5,
+    "cybersecurity_compatibility": 0.2,
+    "cloud_compatibility": 0.3,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_035",
+      "skill_036",
+      "skill_038",
+      "skill_040"
+    ],
+    "required_skills": [
+      "Comptabilité",
+      "Audit Financier",
+      "Analyse Financière",
+      "ERP (SAP, Oracle)"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_015",
+    "slug": "analyste-financier",
+    "title_fr": "Analyste Financier",
+    "title_en": "Financial Analyst",
+    "title_ar": "محلل مالي",
+    "industry": "Finance et Banque",
+    "related_fields": [
+      "Sciences Économiques et Gestion"
+    ],
+    "salary_tunisia_monthly_tnd": 2400,
+    "salary_europe_annual_eur": 50000,
+    "salary_canada_annual_cad": 75000,
+    "salary_gulf_annual_aed": 190000,
+    "employment_rate": 0.85,
+    "future_outlook": "high",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.6,
+    "data_science_compatibility": 0.7,
+    "cybersecurity_compatibility": 0.2,
+    "cloud_compatibility": 0.3,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "high",
+    "required_skill_ids": [
+      "skill_038",
+      "skill_035",
+      "skill_045",
+      "skill_018"
+    ],
+    "required_skills": [
+      "Analyse Financière",
+      "Comptabilité",
+      "Statistiques",
+      "Data Analysis"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_016",
+    "slug": "responsable-marketing-digital",
+    "title_fr": "Responsable Marketing Digital",
+    "title_en": "Digital Marketing Manager",
+    "title_ar": "مسؤول تسويق رقمي",
+    "industry": "Marketing et Communication",
+    "related_fields": [
+      "Sciences Économiques et Gestion",
+      "Commerce"
+    ],
+    "salary_tunisia_monthly_tnd": 2000,
+    "salary_europe_annual_eur": 45000,
+    "salary_canada_annual_cad": 65000,
+    "salary_gulf_annual_aed": 170000,
+    "employment_rate": 0.88,
+    "future_outlook": "very_high",
+    "remote_work_opportunities": "very_high",
+    "ai_compatibility": 0.7,
+    "data_science_compatibility": 0.6,
+    "cybersecurity_compatibility": 0.2,
+    "cloud_compatibility": 0.4,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_037",
+      "skill_018",
+      "skill_054",
+      "skill_059"
+    ],
+    "required_skills": [
+      "Marketing Digital",
+      "Data Analysis",
+      "Communication",
+      "Créativité"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_017",
+    "slug": "consultant-en-management",
+    "title_fr": "Consultant en Management",
+    "title_en": "Management Consultant",
+    "title_ar": "مستشار إداري",
+    "industry": "Conseil",
+    "related_fields": [
+      "Sciences Économiques et Gestion"
+    ],
+    "salary_tunisia_monthly_tnd": 2500,
+    "salary_europe_annual_eur": 55000,
+    "salary_canada_annual_cad": 80000,
+    "salary_gulf_annual_aed": 200000,
+    "employment_rate": 0.82,
+    "future_outlook": "high",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.5,
+    "data_science_compatibility": 0.5,
+    "cybersecurity_compatibility": 0.2,
+    "cloud_compatibility": 0.3,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_039",
+      "skill_056",
+      "skill_038",
+      "skill_054",
+      "skill_062"
+    ],
+    "required_skills": [
+      "Gestion de Projet",
+      "Leadership",
+      "Analyse Financière",
+      "Communication",
+      "Présentation Orale"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_018",
+    "slug": "avocat",
+    "title_fr": "Avocat",
+    "title_en": "Lawyer",
+    "title_ar": "محامي",
+    "industry": "Services Juridiques",
+    "related_fields": [
+      "Droit et Sciences Politiques"
+    ],
+    "salary_tunisia_monthly_tnd": 2500,
+    "salary_europe_annual_eur": 50000,
+    "salary_canada_annual_cad": 80000,
+    "salary_gulf_annual_aed": 180000,
+    "employment_rate": 0.78,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.4,
+    "data_science_compatibility": 0.2,
+    "cybersecurity_compatibility": 0.3,
+    "cloud_compatibility": 0.1,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "high",
+    "required_skill_ids": [
+      "skill_046",
+      "skill_048",
+      "skill_064",
+      "skill_054",
+      "skill_058"
+    ],
+    "required_skills": [
+      "Droit des Affaires",
+      "Rédaction Juridique",
+      "Négociation",
+      "Communication",
+      "Pensée Critique"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_019",
+    "slug": "magistrat",
+    "title_fr": "Magistrat",
+    "title_en": "Magistrate",
+    "title_ar": "قاضي",
+    "industry": "Justice",
+    "related_fields": [
+      "Droit et Sciences Politiques"
+    ],
+    "salary_tunisia_monthly_tnd": 3000,
+    "salary_europe_annual_eur": 55000,
+    "salary_canada_annual_cad": 90000,
+    "salary_gulf_annual_aed": 0,
+    "employment_rate": 0.7,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "none",
+    "ai_compatibility": 0.3,
+    "data_science_compatibility": 0.1,
+    "cybersecurity_compatibility": 0.2,
+    "cloud_compatibility": 0.0,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "none",
+    "required_skill_ids": [
+      "skill_046",
+      "skill_047",
+      "skill_048",
+      "skill_058"
+    ],
+    "required_skills": [
+      "Droit des Affaires",
+      "Droit International",
+      "Rédaction Juridique",
+      "Pensée Critique"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_020",
+    "slug": "medecin-generaliste",
+    "title_fr": "Médecin Généraliste",
+    "title_en": "General Practitioner",
+    "title_ar": "طبيب عام",
+    "industry": "Santé",
+    "related_fields": [
+      "Sciences de la Santé"
+    ],
+    "salary_tunisia_monthly_tnd": 2000,
+    "salary_europe_annual_eur": 60000,
+    "salary_canada_annual_cad": 120000,
+    "salary_gulf_annual_aed": 300000,
+    "employment_rate": 0.95,
+    "future_outlook": "very_high",
+    "remote_work_opportunities": "low",
+    "ai_compatibility": 0.5,
+    "data_science_compatibility": 0.3,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.2,
+    "embedded_systems_compatibility": 0.1,
+    "entrepreneurship_opportunities": "high",
+    "required_skill_ids": [
+      "skill_049",
+      "skill_054",
+      "skill_057",
+      "skill_058"
+    ],
+    "required_skills": [
+      "Diagnostic Médical",
+      "Communication",
+      "Résolution de Problèmes",
+      "Pensée Critique"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_021",
+    "slug": "medecin-specialiste",
+    "title_fr": "Médecin Spécialiste",
+    "title_en": "Medical Specialist",
+    "title_ar": "طبيب مختص",
+    "industry": "Santé",
+    "related_fields": [
+      "Sciences de la Santé"
+    ],
+    "salary_tunisia_monthly_tnd": 4000,
+    "salary_europe_annual_eur": 90000,
+    "salary_canada_annual_cad": 200000,
+    "salary_gulf_annual_aed": 500000,
+    "employment_rate": 0.97,
+    "future_outlook": "very_high",
+    "remote_work_opportunities": "low",
+    "ai_compatibility": 0.5,
+    "data_science_compatibility": 0.3,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.2,
+    "embedded_systems_compatibility": 0.1,
+    "entrepreneurship_opportunities": "high",
+    "required_skill_ids": [
+      "skill_049",
+      "skill_054",
+      "skill_056",
+      "skill_057"
+    ],
+    "required_skills": [
+      "Diagnostic Médical",
+      "Communication",
+      "Leadership",
+      "Résolution de Problèmes"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_022",
+    "slug": "pharmacien",
+    "title_fr": "Pharmacien",
+    "title_en": "Pharmacist",
+    "title_ar": "صيدلي",
+    "industry": "Santé et Industrie Pharmaceutique",
+    "related_fields": [
+      "Sciences de la Santé"
+    ],
+    "salary_tunisia_monthly_tnd": 2200,
+    "salary_europe_annual_eur": 45000,
+    "salary_canada_annual_cad": 95000,
+    "salary_gulf_annual_aed": 200000,
+    "employment_rate": 0.88,
+    "future_outlook": "high",
+    "remote_work_opportunities": "none",
+    "ai_compatibility": 0.3,
+    "data_science_compatibility": 0.3,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.1,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_042",
+      "skill_041",
+      "skill_054"
+    ],
+    "required_skills": [
+      "Chimie Analytique",
+      "Biologie Moléculaire",
+      "Communication"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_023",
+    "slug": "chercheur-en-sciences",
+    "title_fr": "Chercheur en Sciences",
+    "title_en": "Research Scientist",
+    "title_ar": "باحث علمي",
+    "industry": "Recherche et Enseignement",
+    "related_fields": [
+      "Général",
+      "Mathématiques",
+      "Physique",
+      "Chimie",
+      "Biologie"
+    ],
+    "salary_tunisia_monthly_tnd": 2000,
+    "salary_europe_annual_eur": 40000,
+    "salary_canada_annual_cad": 60000,
+    "salary_gulf_annual_aed": 150000,
+    "employment_rate": 0.65,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.6,
+    "data_science_compatibility": 0.7,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.3,
+    "embedded_systems_compatibility": 0.2,
+    "entrepreneurship_opportunities": "low",
+    "required_skill_ids": [
+      "skill_044",
+      "skill_045",
+      "skill_063",
+      "skill_058"
+    ],
+    "required_skills": [
+      "Mathématiques Appliquées",
+      "Statistiques",
+      "Rédaction Technique",
+      "Pensée Critique"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_024",
+    "slug": "enseignant-universitaire",
+    "title_fr": "Enseignant Universitaire",
+    "title_en": "University Professor",
+    "title_ar": "أستاذ جامعي",
+    "industry": "Enseignement Supérieur",
+    "related_fields": [
+      "Général"
+    ],
+    "salary_tunisia_monthly_tnd": 2500,
+    "salary_europe_annual_eur": 45000,
+    "salary_canada_annual_cad": 80000,
+    "salary_gulf_annual_aed": 180000,
+    "employment_rate": 0.7,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.5,
+    "data_science_compatibility": 0.4,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.2,
+    "embedded_systems_compatibility": 0.1,
+    "entrepreneurship_opportunities": "low",
+    "required_skill_ids": [
+      "skill_062",
+      "skill_063",
+      "skill_058",
+      "skill_056"
+    ],
+    "required_skills": [
+      "Présentation Orale",
+      "Rédaction Technique",
+      "Pensée Critique",
+      "Leadership"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_025",
+    "slug": "designer-graphique",
+    "title_fr": "Designer Graphique",
+    "title_en": "Graphic Designer",
+    "title_ar": "مصمم جرافيكي",
+    "industry": "Communication et Médias",
+    "related_fields": [
+      "Arts et Design"
+    ],
+    "salary_tunisia_monthly_tnd": 1500,
+    "salary_europe_annual_eur": 35000,
+    "salary_canada_annual_cad": 50000,
+    "salary_gulf_annual_aed": 130000,
+    "employment_rate": 0.75,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "very_high",
+    "ai_compatibility": 0.6,
+    "data_science_compatibility": 0.2,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.2,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_050",
+      "skill_051",
+      "skill_059"
+    ],
+    "required_skills": [
+      "Design Graphique (Photoshop, Illustrator)",
+      "UI/UX Design",
+      "Créativité"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_026",
+    "slug": "designer-ui-ux",
+    "title_fr": "Designer UI/UX",
+    "title_en": "UI/UX Designer",
+    "title_ar": "مصمم واجهات",
+    "industry": "Technologies de l'Information",
+    "related_fields": [
+      "Arts et Design",
+      "Informatique et Technologies"
+    ],
+    "salary_tunisia_monthly_tnd": 2000,
+    "salary_europe_annual_eur": 45000,
+    "salary_canada_annual_cad": 70000,
+    "salary_gulf_annual_aed": 170000,
+    "employment_rate": 0.88,
+    "future_outlook": "very_high",
+    "remote_work_opportunities": "very_high",
+    "ai_compatibility": 0.7,
+    "data_science_compatibility": 0.4,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.3,
+    "embedded_systems_compatibility": 0.1,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_051",
+      "skill_050",
+      "skill_006",
+      "skill_059"
+    ],
+    "required_skills": [
+      "UI/UX Design",
+      "Design Graphique (Photoshop, Illustrator)",
+      "HTML/CSS",
+      "Créativité"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_027",
+    "slug": "journaliste",
+    "title_fr": "Journaliste",
+    "title_en": "Journalist",
+    "title_ar": "صحفي",
+    "industry": "Médias",
+    "related_fields": [
+      "Communication",
+      "Langues"
+    ],
+    "salary_tunisia_monthly_tnd": 1400,
+    "salary_europe_annual_eur": 32000,
+    "salary_canada_annual_cad": 50000,
+    "salary_gulf_annual_aed": 130000,
+    "employment_rate": 0.65,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "high",
+    "ai_compatibility": 0.5,
+    "data_science_compatibility": 0.3,
+    "cybersecurity_compatibility": 0.1,
+    "cloud_compatibility": 0.1,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "high",
+    "required_skill_ids": [
+      "skill_054",
+      "skill_063",
+      "skill_059",
+      "skill_058"
+    ],
+    "required_skills": [
+      "Communication",
+      "Rédaction Technique",
+      "Créativité",
+      "Pensée Critique"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_028",
+    "slug": "enseignant-du-secondaire",
+    "title_fr": "Enseignant du Secondaire",
+    "title_en": "Secondary School Teacher",
+    "title_ar": "أستاذ تعليم ثانوي",
+    "industry": "Éducation",
+    "related_fields": [
+      "Général",
+      "Langues",
+      "Sciences Humaines"
+    ],
+    "salary_tunisia_monthly_tnd": 1800,
+    "salary_europe_annual_eur": 35000,
+    "salary_canada_annual_cad": 55000,
+    "salary_gulf_annual_aed": 140000,
+    "employment_rate": 0.75,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "low",
+    "ai_compatibility": 0.3,
+    "data_science_compatibility": 0.2,
+    "cybersecurity_compatibility": 0.0,
+    "cloud_compatibility": 0.1,
+    "embedded_systems_compatibility": 0.0,
+    "entrepreneurship_opportunities": "low",
+    "required_skill_ids": [
+      "skill_054",
+      "skill_062",
+      "skill_056",
+      "skill_060"
+    ],
+    "required_skills": [
+      "Communication",
+      "Présentation Orale",
+      "Leadership",
+      "Adaptabilité"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "career_029",
+    "slug": "architecte",
+    "title_fr": "Architecte",
+    "title_en": "Architect",
+    "title_ar": "مهندس معماري",
+    "industry": "Architecture et Construction",
+    "related_fields": [
+      "Architecture"
+    ],
+    "salary_tunisia_monthly_tnd": 2200,
+    "salary_europe_annual_eur": 42000,
+    "salary_canada_annual_cad": 65000,
+    "salary_gulf_annual_aed": 180000,
+    "employment_rate": 0.78,
+    "future_outlook": "medium",
+    "remote_work_opportunities": "medium",
+    "ai_compatibility": 0.5,
+    "data_science_compatibility": 0.2,
+    "cybersecurity_compatibility": 0.0,
+    "cloud_compatibility": 0.2,
+    "embedded_systems_compatibility": 0.1,
+    "entrepreneurship_opportunities": "very_high",
+    "required_skill_ids": [
+      "skill_030",
+      "skill_052",
+      "skill_059",
+      "skill_039"
+    ],
+    "required_skills": [
+      "CAO/FAO (SolidWorks, AutoCAD)",
+      "3D Modeling",
+      "Créativité",
+      "Gestion de Projet"
+    ],
+    "program_ids": [],
+    "source": [
+      "Emploi.tn",
+      "Glassdoor",
+      "LinkedIn Salary Insights",
+      "Tanitjobs"
+    ],
+    "confidence_score": 0.65
+  }
+]

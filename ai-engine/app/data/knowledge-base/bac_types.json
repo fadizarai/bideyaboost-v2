@@ -1,0 +1,233 @@
+[
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "bac_001",
+    "slug": "math",
+    "code": "math",
+    "name_fr": "Mathématiques",
+    "name_ar": "رياضيات",
+    "name_en": "Mathematics",
+    "description": "Section axée sur les mathématiques approfondies, la physique et les sciences fondamentales. Donne accès aux classes préparatoires, écoles d'ingénieurs, facultés de sciences et informatique.",
+    "key_subjects": [
+      "math",
+      "physics",
+      "science"
+    ],
+    "compatible_fields": [
+      "Sciences de l'Ingénieur",
+      "Informatique et Technologies",
+      "Mathématiques",
+      "Physique",
+      "Chimie",
+      "Sciences Fondamentales",
+      "Médecine",
+      "Pharmacie",
+      "Architecture"
+    ],
+    "orientation_formula": "Score = Bac * Coef + Math * 3 + Physique * 2",
+    "weight_math": 3.0,
+    "weight_physics": 2.0,
+    "weight_science": 1.5,
+    "source": [
+      "Ministère de l'Enseignement Supérieur"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "bac_002",
+    "slug": "sciences",
+    "code": "sciences",
+    "name_fr": "Sciences Expérimentales",
+    "name_ar": "علوم تجريبية",
+    "name_en": "Experimental Sciences",
+    "description": "Section axée sur les sciences naturelles, la biologie, la chimie et la physique. Donne accès à la médecine, pharmacie, biologie, agronomie et sciences de la santé.",
+    "key_subjects": [
+      "science",
+      "physics",
+      "math"
+    ],
+    "compatible_fields": [
+      "Médecine",
+      "Pharmacie",
+      "Biologie",
+      "Chimie",
+      "Sciences de la Santé",
+      "Agronomie",
+      "Sciences Fondamentales",
+      "Informatique et Technologies"
+    ],
+    "orientation_formula": "Score = Bac * Coef + SVT * 3 + Physique * 2 + Math * 1.5",
+    "weight_math": 1.5,
+    "weight_physics": 2.0,
+    "weight_science": 3.0,
+    "source": [
+      "Ministère de l'Enseignement Supérieur"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "bac_003",
+    "slug": "informatique",
+    "code": "informatique",
+    "name_fr": "Sciences Informatiques",
+    "name_ar": "علوم إعلامية",
+    "name_en": "Computer Science",
+    "description": "Section axée sur l'algorithmique, la programmation, les bases de données et les réseaux. Donne accès aux filières informatiques, multimédia et technologies.",
+    "key_subjects": [
+      "algo",
+      "math",
+      "physics"
+    ],
+    "compatible_fields": [
+      "Informatique et Technologies",
+      "Sciences de l'Ingénieur",
+      "Mathématiques",
+      "Multimédia"
+    ],
+    "orientation_formula": "Score = Bac * Coef + Algo * 3 + Math * 2 + Physique * 1.5",
+    "weight_math": 2.0,
+    "weight_physics": 1.5,
+    "weight_science": 1.0,
+    "source": [
+      "Ministère de l'Enseignement Supérieur"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "bac_004",
+    "slug": "technique",
+    "code": "technique",
+    "name_fr": "Sciences Techniques",
+    "name_ar": "العلوم التقنية",
+    "name_en": "Technical Sciences",
+    "description": "Section axée sur les technologies industrielles, l'électronique, la mécanique et l'automatisme. Donne accès aux écoles d'ingénieurs, ISET et filières techniques.",
+    "key_subjects": [
+      "tech",
+      "math",
+      "physics"
+    ],
+    "compatible_fields": [
+      "Sciences de l'Ingénieur",
+      "Génie Mécanique",
+      "Génie Électrique",
+      "Génie Civil",
+      "Informatique et Technologies"
+    ],
+    "orientation_formula": "Score = Bac * Coef + STI * 3 + Math * 2 + Physique * 1.5",
+    "weight_math": 2.0,
+    "weight_physics": 1.5,
+    "weight_science": 1.0,
+    "source": [
+      "Ministère de l'Enseignement Supérieur"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "bac_005",
+    "slug": "economie",
+    "code": "economie",
+    "name_fr": "Économie et Gestion",
+    "name_ar": "اقتصاد وتصرف",
+    "name_en": "Economics and Management",
+    "description": "Section axée sur l'économie, la gestion, la comptabilité et le droit. Donne accès aux facultés de gestion, IHEC, ISG et filières commerciales.",
+    "key_subjects": [
+      "economie",
+      "gestion",
+      "math"
+    ],
+    "compatible_fields": [
+      "Sciences Économiques et Gestion",
+      "Commerce",
+      "Finance",
+      "Comptabilité",
+      "Droit",
+      "Administration"
+    ],
+    "orientation_formula": "Score = Bac * Coef + Eco * 3 + Gestion * 2 + Math * 1.5",
+    "weight_math": 1.5,
+    "weight_physics": 0.0,
+    "weight_science": 0.0,
+    "source": [
+      "Ministère de l'Enseignement Supérieur"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "bac_006",
+    "slug": "lettres",
+    "code": "lettres",
+    "name_fr": "Lettres",
+    "name_ar": "آداب",
+    "name_en": "Arts and Humanities",
+    "description": "Section axée sur la littérature, la philosophie, l'histoire et les langues. Donne accès aux facultés de lettres, de droit, de sciences humaines et de journalisme.",
+    "key_subjects": [
+      "arabic",
+      "french",
+      "english",
+      "philosophy",
+      "history_geo"
+    ],
+    "compatible_fields": [
+      "Langues",
+      "Sciences Humaines",
+      "Droit et Sciences Politiques",
+      "Arts et Lettres",
+      "Journalisme",
+      "Communication"
+    ],
+    "orientation_formula": "Score = Bac * Coef + Arabe * 2 + Français * 2 + Anglais * 1.5",
+    "weight_math": 0.0,
+    "weight_physics": 0.0,
+    "weight_science": 0.0,
+    "source": [
+      "Ministère de l'Enseignement Supérieur"
+    ],
+    "confidence_score": 0.95
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "bac_007",
+    "slug": "sport",
+    "code": "sport",
+    "name_fr": "Sport",
+    "name_ar": "رياضة",
+    "name_en": "Sport",
+    "description": "Section axée sur les sciences du sport, l'éducation physique et les activités sportives. Donne accès aux ISSEP et aux filières liées au sport et à l'animation.",
+    "key_subjects": [
+      "sport",
+      "science"
+    ],
+    "compatible_fields": [
+      "Sciences du Sport",
+      "Éducation Physique",
+      "Animation"
+    ],
+    "orientation_formula": "Score = Bac * Coef + Sport * 3 + SVT * 1.5",
+    "weight_math": 0.0,
+    "weight_physics": 0.0,
+    "weight_science": 1.5,
+    "source": [
+      "Ministère de l'Enseignement Supérieur"
+    ],
+    "confidence_score": 0.95
+  }
+]

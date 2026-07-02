@@ -1,0 +1,737 @@
+[
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_ariana",
+    "slug": "ariana",
+    "name_fr": "Ariana",
+    "name_ar": "أريانة",
+    "name_en": "Ariana",
+    "governorate_id": "gov_002",
+    "governorate_name": "Ariana",
+    "gps": {
+      "lat": 36.8625,
+      "lng": 10.1956
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_ben-arous",
+    "slug": "ben-arous",
+    "name_fr": "Ben Arous",
+    "name_ar": "بن عروس",
+    "name_en": "Ben Arous",
+    "governorate_id": "gov_003",
+    "governorate_name": "Ben Arous",
+    "gps": {
+      "lat": 36.7471,
+      "lng": 10.2326
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_bizerte",
+    "slug": "bizerte",
+    "name_fr": "Bizerte",
+    "name_ar": "بنزرت",
+    "name_en": "Bizerte",
+    "governorate_id": "gov_007",
+    "governorate_name": "Bizerte",
+    "gps": {
+      "lat": 37.2744,
+      "lng": 9.8739
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_beja",
+    "slug": "beja",
+    "name_fr": "Béja",
+    "name_ar": "باجة",
+    "name_en": "Béja",
+    "governorate_id": "gov_008",
+    "governorate_name": "Béja",
+    "gps": {
+      "lat": 36.7256,
+      "lng": 9.1817
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_carthage",
+    "slug": "carthage",
+    "name_fr": "Carthage",
+    "name_ar": "",
+    "name_en": "Carthage",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_charguia",
+    "slug": "charguia",
+    "name_fr": "Charguia",
+    "name_ar": "",
+    "name_en": "Charguia",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_el-ghazala",
+    "slug": "el-ghazala",
+    "name_fr": "El Ghazala",
+    "name_ar": "",
+    "name_en": "El Ghazala",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_el-manar",
+    "slug": "el-manar",
+    "name_fr": "El Manar",
+    "name_ar": "المنار",
+    "name_en": "El Manar",
+    "governorate_id": "gov_001",
+    "governorate_name": "Tunis",
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_gabes",
+    "slug": "gabes",
+    "name_fr": "Gabès",
+    "name_ar": "قابس",
+    "name_en": "Gabès",
+    "governorate_id": "gov_019",
+    "governorate_name": "Gabès",
+    "gps": {
+      "lat": 33.8815,
+      "lng": 10.0982
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_gafsa",
+    "slug": "gafsa",
+    "name_fr": "Gafsa",
+    "name_ar": "قفصة",
+    "name_en": "Gafsa",
+    "governorate_id": "gov_022",
+    "governorate_name": "Gafsa",
+    "gps": {
+      "lat": 34.425,
+      "lng": 8.7842
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_gammarth",
+    "slug": "gammarth",
+    "name_fr": "Gammarth",
+    "name_ar": "",
+    "name_en": "Gammarth",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_jendouba",
+    "slug": "jendouba",
+    "name_fr": "Jendouba",
+    "name_ar": "جندوبة",
+    "name_en": "Jendouba",
+    "governorate_id": "gov_009",
+    "governorate_name": "Jendouba",
+    "gps": {
+      "lat": 36.5012,
+      "lng": 8.7801
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_jerba",
+    "slug": "jerba",
+    "name_fr": "Jerba",
+    "name_ar": "",
+    "name_en": "Jerba",
+    "governorate_id": "gov_020",
+    "governorate_name": "Médenine",
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_kairouan",
+    "slug": "kairouan",
+    "name_fr": "Kairouan",
+    "name_ar": "القيروان",
+    "name_en": "Kairouan",
+    "governorate_id": "gov_016",
+    "governorate_name": "Kairouan",
+    "gps": {
+      "lat": 35.6781,
+      "lng": 10.0963
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_kasserine",
+    "slug": "kasserine",
+    "name_fr": "Kasserine",
+    "name_ar": "القصرين",
+    "name_en": "Kasserine",
+    "governorate_id": "gov_017",
+    "governorate_name": "Kasserine",
+    "gps": {
+      "lat": 35.1672,
+      "lng": 8.8365
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_ksar-hellal",
+    "slug": "ksar-hellal",
+    "name_fr": "Ksar Hellal",
+    "name_ar": "قصر هلال",
+    "name_en": "Ksar Hellal",
+    "governorate_id": "gov_013",
+    "governorate_name": "Monastir",
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_kebili",
+    "slug": "kebili",
+    "name_fr": "Kébili",
+    "name_ar": "قبلي",
+    "name_en": "Kébili",
+    "governorate_id": "gov_024",
+    "governorate_name": "Kébili",
+    "gps": {
+      "lat": 33.7072,
+      "lng": 8.9697
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_la-marsa",
+    "slug": "la-marsa",
+    "name_fr": "La Marsa",
+    "name_ar": "",
+    "name_en": "La Marsa",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_le-kef",
+    "slug": "le-kef",
+    "name_fr": "Le Kef",
+    "name_ar": "الكاف",
+    "name_en": "Le Kef",
+    "governorate_id": "gov_010",
+    "governorate_name": "Le Kef",
+    "gps": {
+      "lat": 36.1826,
+      "lng": 8.7148
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_mahdia",
+    "slug": "mahdia",
+    "name_fr": "Mahdia",
+    "name_ar": "المهدية",
+    "name_en": "Mahdia",
+    "governorate_id": "gov_014",
+    "governorate_name": "Mahdia",
+    "gps": {
+      "lat": 35.5047,
+      "lng": 11.0622
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_manouba",
+    "slug": "manouba",
+    "name_fr": "Manouba",
+    "name_ar": "منوبة",
+    "name_en": "Manouba",
+    "governorate_id": "gov_004",
+    "governorate_name": "Manouba",
+    "gps": {
+      "lat": 36.8101,
+      "lng": 10.0863
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_mateur",
+    "slug": "mateur",
+    "name_fr": "Mateur",
+    "name_ar": "",
+    "name_en": "Mateur",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_mograne",
+    "slug": "mograne",
+    "name_fr": "Mograne",
+    "name_ar": "",
+    "name_en": "Mograne",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_moknine",
+    "slug": "moknine",
+    "name_fr": "Moknine",
+    "name_ar": "المكنين",
+    "name_en": "Moknine",
+    "governorate_id": "gov_013",
+    "governorate_name": "Monastir",
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_monastir",
+    "slug": "monastir",
+    "name_fr": "Monastir",
+    "name_ar": "المنستير",
+    "name_en": "Monastir",
+    "governorate_id": "gov_013",
+    "governorate_name": "Monastir",
+    "gps": {
+      "lat": 35.7643,
+      "lng": 10.8113
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_medenine",
+    "slug": "medenine",
+    "name_fr": "Médenine",
+    "name_ar": "مدنين",
+    "name_en": "Médenine",
+    "governorate_id": "gov_020",
+    "governorate_name": "Médenine",
+    "gps": {
+      "lat": 33.354,
+      "lng": 10.5055
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_nabeul",
+    "slug": "nabeul",
+    "name_fr": "Nabeul",
+    "name_ar": "نابل",
+    "name_en": "Nabeul",
+    "governorate_id": "gov_005",
+    "governorate_name": "Nabeul",
+    "gps": {
+      "lat": 36.4561,
+      "lng": 10.7376
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_sbeitla",
+    "slug": "sbeitla",
+    "name_fr": "Sbeïtla",
+    "name_ar": "",
+    "name_en": "Sbeïtla",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_sfax",
+    "slug": "sfax",
+    "name_fr": "Sfax",
+    "name_ar": "صفاقس",
+    "name_en": "Sfax",
+    "governorate_id": "gov_015",
+    "governorate_name": "Sfax",
+    "gps": {
+      "lat": 34.7398,
+      "lng": 10.76
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_sidi-bouzid",
+    "slug": "sidi-bouzid",
+    "name_fr": "Sidi Bouzid",
+    "name_ar": "سيدي بوزيد",
+    "name_en": "Sidi Bouzid",
+    "governorate_id": "gov_018",
+    "governorate_name": "Sidi Bouzid",
+    "gps": {
+      "lat": 35.0354,
+      "lng": 9.4839
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_sidi-thabet",
+    "slug": "sidi-thabet",
+    "name_fr": "Sidi Thabet",
+    "name_ar": "",
+    "name_en": "Sidi Thabet",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_siliana",
+    "slug": "siliana",
+    "name_fr": "Siliana",
+    "name_ar": "سليانة",
+    "name_en": "Siliana",
+    "governorate_id": "gov_011",
+    "governorate_name": "Siliana",
+    "gps": {
+      "lat": 36.085,
+      "lng": 9.3708
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_soukra",
+    "slug": "soukra",
+    "name_fr": "Soukra",
+    "name_ar": "",
+    "name_en": "Soukra",
+    "governorate_id": null,
+    "governorate_name": null,
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_sousse",
+    "slug": "sousse",
+    "name_fr": "Sousse",
+    "name_ar": "سوسة",
+    "name_en": "Sousse",
+    "governorate_id": "gov_012",
+    "governorate_name": "Sousse",
+    "gps": {
+      "lat": 35.8254,
+      "lng": 10.636
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_tabarka",
+    "slug": "tabarka",
+    "name_fr": "Tabarka",
+    "name_ar": "طبرقة",
+    "name_en": "Tabarka",
+    "governorate_id": "gov_009",
+    "governorate_name": "Jendouba",
+    "gps": null,
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.7
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_tataouine",
+    "slug": "tataouine",
+    "name_fr": "Tataouine",
+    "name_ar": "تطاوين",
+    "name_en": "Tataouine",
+    "governorate_id": "gov_021",
+    "governorate_name": "Tataouine",
+    "gps": {
+      "lat": 32.9297,
+      "lng": 10.4517
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_tozeur",
+    "slug": "tozeur",
+    "name_fr": "Tozeur",
+    "name_ar": "توزر",
+    "name_en": "Tozeur",
+    "governorate_id": "gov_023",
+    "governorate_name": "Tozeur",
+    "gps": {
+      "lat": 33.9197,
+      "lng": 8.1339
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_tunis",
+    "slug": "tunis",
+    "name_fr": "Tunis",
+    "name_ar": "تونس",
+    "name_en": "Tunis",
+    "governorate_id": "gov_001",
+    "governorate_name": "Tunis",
+    "gps": {
+      "lat": 36.8065,
+      "lng": 10.1815
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  },
+  {
+    "created_at": "2026-06-25T21:48:15.622705+00:00",
+    "updated_at": "2026-06-25T21:48:15.622705+00:00",
+    "language": "fr",
+    "id": "city_zaghouan",
+    "slug": "zaghouan",
+    "name_fr": "Zaghouan",
+    "name_ar": "زغوان",
+    "name_en": "Zaghouan",
+    "governorate_id": "gov_006",
+    "governorate_name": "Zaghouan",
+    "gps": {
+      "lat": 36.4029,
+      "lng": 10.1429
+    },
+    "source": [
+      "orientation.tn"
+    ],
+    "confidence_score": 0.9
+  }
+]
